@@ -1,6 +1,8 @@
 # Table of contents
 
-* [Diablo 2 Việt Nam](README.md)
+* [Về D2VN](README.md)
+  * [👋 Welcome](ve-d2vn/readme.md)
+  * [👋Thông tin máy chủ](ve-d2vn/thong-tin-may-chu.md)
 * [Thông tin Game](thong-tin-game/README.md)
   * [Thông tin máy chủ](thong-tin-game/thong-tin-may-chu.md)
   * [Hướng dẫn chơi](thong-tin-game/huong-dan-choi.md)
