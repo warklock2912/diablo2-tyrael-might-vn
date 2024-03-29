@@ -2,7 +2,7 @@
 
 🎮​ Nếu như ai đã từng sử dụng win xp, dàn máy tính dày cộm chắc chắn vẫn còn nhớ tựa game Diablo2 huyền thoại này. Đặc biệt là thế hệ 8x 9x, quãng thời gian miệt mài bên nét cỏ chắc không ít bạn đã từng trải nghiệm con game này trong list game offline trong quán net, ở nhà. Bẵng qua 20 năm đằng đằng nhiều người vẫn nghĩ đây là con game offline lỗi thời nhàm chán nhưng không….Tại mod Diablo2 Việt Nam của chúng mình, Diablo2 đã hoàn toàn được remake lại, thêm nhiều tính năng mới lạ, bắt kịp với các dòng game online khác trên thị trường. Hơn hết đó là khả năng chơi online cùng nhau, cùng nhau train, săn boss, trò truyện, pk, tổ chức giải đấu tuần, tháng, năm,.v…v..
 
-​🤩 CÁC TÍNH NĂNG MỚI TRONG BẢN ONLINE DIABLO2 VIỆT NAM:
+​🤩 **CÁC TÍNH NĂNG MỚI TRONG BẢN ONLINE DIABLO2 VIỆT NAM:**
 
 * Hệ thống cánh mới, charm mới độc lạ đẹp mắt.
 * Hệ thống tiền tệ mới trong game là soul có giá trị và dùng để trade với các player khác.
