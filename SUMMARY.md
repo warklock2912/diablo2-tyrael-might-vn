@@ -10,7 +10,7 @@
   * [🛠️ Hướng dẫn sửa lỗi C0000005](tham-gia-d2vn/huong-dan-sua-loi-c0000005.md)
   * [🔰  Lần đầu tham gia Game](tham-gia-d2vn/lan-dau-tham-gia-game.md)
 * [💰Tiền tệ trong game](tien-te-trong-game/README.md)
-  * [Fgold (Tiền tệ)](tien-te-trong-game/fgold-tien-te.md)
+  * [💰Fgold (Tiền tệ)](tien-te-trong-game/fgold-tien-te.md)
   * [Cửa hàng FGold](tien-te-trong-game/cua-hang-fgold.md)
   * [Blood Souls (Tiền tệ)](tien-te-trong-game/blood-souls-tien-te.md)
   * [Cửa hàng Souls](tien-te-trong-game/cua-hang-souls.md)
