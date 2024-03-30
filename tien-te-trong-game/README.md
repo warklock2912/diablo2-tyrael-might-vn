@@ -1,3 +1,2 @@
 # Tiền tệ trong game
 
-##
