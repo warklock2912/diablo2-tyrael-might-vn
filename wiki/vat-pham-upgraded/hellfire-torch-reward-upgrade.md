@@ -1,14 +1,10 @@
 # Hellfire Torch Reward Upgrade
 
-## Standard Uber Charm
-
-
-
-## Standard Upgrade Hard HT
+## Standard Upgrade Hard HT **được Drop ở Extra Quest**
 
 (Phôi đập vào HT)​
 
-[![1705313533483.png](https://i0.wp.com/forum.vbaplay.com/data/attachments/0/346-14d438291c3ef9f1c071f776aca93c10.jpg?resize=223%2C150\&ssl=1)](https://forum.vbaplay.com/attachments/1705313533483-png.346/)
+<figure><img src="https://i0.wp.com/forum.vbaplay.com/data/attachments/0/346-14d438291c3ef9f1c071f776aca93c10.jpg?resize=223%2C150&#x26;ssl=1" alt=""><figcaption></figcaption></figure>
 
 – Công thức : x2 Standard Uber Normal + Ber Rune + x3 Magic Orb\
 \+ 0 – 1 All Skills\
@@ -19,7 +15,7 @@
 
 #### Upgrade Upgrade God HT (Phôi đập vào HT)​
 
-[![1705313579512.png](https://i0.wp.com/forum.vbaplay.com/data/attachments/0/347-9ad8cdec5864dc0735467500870e749a.jpg?resize=187%2C150\&ssl=1)](https://forum.vbaplay.com/attachments/1705313579512-png.347/)
+<figure><img src="https://i0.wp.com/forum.vbaplay.com/data/attachments/0/347-9ad8cdec5864dc0735467500870e749a.jpg?resize=187%2C150&#x26;ssl=1" alt=""><figcaption></figcaption></figure>
 
 – Công thức : x2 Standard Uber Hard + Jah Rune + x1 Chaos Orb\
 \+ 0 – 3 All Skills\
@@ -30,7 +26,7 @@
 
 #### Upgrade Upgrade Trans HT (Phôi đập vào HT)​
 
-[![1705313627839.png](https://i0.wp.com/forum.vbaplay.com/data/attachments/0/348-38846e41e605cd6823e2584cdaa99901.jpg?resize=260%2C150\&ssl=1)](https://forum.vbaplay.com/attachments/1705313627839-png.348/)
+<figure><img src="https://i0.wp.com/forum.vbaplay.com/data/attachments/0/348-38846e41e605cd6823e2584cdaa99901.jpg?resize=260%2C150&#x26;ssl=1" alt=""><figcaption></figcaption></figure>
 
 – Công thức : x2 Standard Uber God + Cham Rune + x2 Chaos Orb\
 \+ 0 – 5 All Skills\

@@ -11,7 +11,7 @@ Link Donate Credit Card
 
 * Hoặc làm các bước như hình:
 
-<figure><img src="../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Tên tài khoản đăng nhập game thôi nhé, không phải tên nhân vật. Ví dụ tài khoản là **s12 hongsochet**  thì ghi phần nội dung là **s12 hongsochet** thôi nhé.
@@ -25,7 +25,7 @@ Tên TK là tên đăng nhập trong game của bạn.
 
 Sau khi chuyển mất khoảng 5 phút – 1h để mình check và kích hoạt cho các bạn. Chỉ cần vào game chọn **SHOPD2VN** rồi ấn **UPDATE FGOLD** luôn nhé.
 
-<figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (7) (1).png" alt=""><figcaption></figcaption></figure>
 
 **ỦNG HỘ CHO D2VN**
 

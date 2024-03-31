@@ -1,4 +1,4 @@
-# Annihilus (LOD)
+# Annihilus Level 1
 
 ### Annihilus Small Charm là gì ? <a href="#annihilus-small-charm-la-gi" id="annihilus-small-charm-la-gi"></a>
 
@@ -19,7 +19,9 @@ Annihilus là một Unique Charm được drop bởi **Uber Diablo** (Các bạn
 
 **Giới thiệu về stone of jordan.**\
 \
-![](https://i0.wp.com/diablo2-vn.com/wp-content/uploads/2020/12/WE1UlQB.png?resize=565%2C99\&ssl=1)
+
+
+<figure><img src="https://i0.wp.com/diablo2-vn.com/wp-content/uploads/2020/12/WE1UlQB.png?resize=565%2C99&#x26;ssl=1" alt=""><figcaption></figcaption></figure>
 
 Stone of jordan (SoJ) là unique ring, 1 trong những loại ring được xếp vào dạng “most wanted” trên battlet net, ngay cả khi bạn chơi single SoJ vẫn là 1 ring tốt nhất cho mọi caster.
 
