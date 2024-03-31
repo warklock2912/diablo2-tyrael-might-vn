@@ -1,2 +1,0 @@
-# Runeword Gold
-

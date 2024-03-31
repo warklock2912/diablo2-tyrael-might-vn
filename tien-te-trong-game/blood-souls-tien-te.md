@@ -2,12 +2,14 @@
 description: Soul hiện tại đang là 1 trong 2 loại tiền tệ chính hiện nay tại sever D2VN
 ---
 
-# Blood Souls (Tiền tệ)
+# 💰Blood Souls (Tiền tệ)
 
 **Tác dụng của nó bao gồm:**
 
-* Mua các vật phẩm trong \[SOUL]SHOP : ShopD2VN -> \[SOUL]SHOP -> Update FGold cho hiển thị lượng FGold và Soul đang có trong tài khoản trước khi mua đồ\
-  ![](https://i0.wp.com/diablo2-vn.com/tm/app/uploads/2024/02/soul.png?resize=482%2C310\&ssl=1)
+*   Mua các vật phẩm trong \[SOUL]SHOP : ShopD2VN -> \[SOUL]SHOP -> Update FGold cho hiển thị lượng FGold và Soul đang có trong tài khoản trước khi mua đồ\
+
+
+    <figure><img src="https://i0.wp.com/diablo2-vn.com/tm/app/uploads/2024/02/soul.png?resize=482%2C310&#x26;ssl=1" alt=""><figcaption></figcaption></figure>
 * Mở các map [**Extra Quest**](https://diablo2-vn.com/tm/docs/wiki/he-thong-quest/extra-quest-nhiem-vu-mo-rong/)**.**
 * Chuyển sinh.
 
