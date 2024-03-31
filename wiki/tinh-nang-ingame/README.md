@@ -1,3 +1,0 @@
-# ⚡ Tính năng InGame
-
-## Articles

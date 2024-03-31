@@ -17,7 +17,7 @@ Phần thưởng khi chuyển sinh:
 
 * Reset toàn bộ quest và Waypoint.
 * Reset về level 1.
-* \+ 200 Life + 2 Skills Points khi bắt đầu.
+* \+ 200 Life và Mana + 2 Skills Points khi bắt đầu.
 * Có thể tham gia phụ bản mới có nhiều vật thưởng và vật phẩm hay hơn.
 
 Kiểm tra chuyển sinh bản thân :
