@@ -8,7 +8,7 @@
 
 ⭐ Số lượng người chơi tham gia : 7 tài khoản (Bao gồm Top 1 Bảng Xếp hạng)&#x20;
 
-⭐ Thời gian bắt đầu: 21:00 - 21:20 PM&#x20;
+⭐ Thời gian bắt đầu: Ngay Sau Khi Server Chính Thức Triển Khai
 
 ⭐ Room: không có
 
