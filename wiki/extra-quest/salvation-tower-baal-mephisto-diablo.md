@@ -1,10 +1,12 @@
-# Salvation Tower
-
-
+# Salvation Tower - Baal - Mephisto - Diablo
 
 ## Salvation Tower
 
+* Phần thưởng khi vượt ải :
 
+{% content-ref url="../vat-pham-upgraded/salvation-reward-upgrade.md" %}
+[salvation-reward-upgrade.md](../vat-pham-upgraded/salvation-reward-upgrade.md)
+{% endcontent-ref %}
 
 | [Mở đầu](https://diablo2-vn.com/tm/docs/wiki/a/extra-quest-nhiem-vu-mo-rong/salvation-tower/#mo-dau)                      | [**Cách vào phụ bản Salvation Tower**](https://diablo2-vn.com/tm/docs/wiki/a/extra-quest-nhiem-vu-mo-rong/salvation-tower/#salva2)      |
 | ------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------- |
