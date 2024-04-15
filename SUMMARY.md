@@ -14,13 +14,6 @@
 * [🛠️ Sửa lỗi C0000005](tham-gia-d2vn/sua-loi-c0000005.md)
 * [☄️ Lần đầu tham gia Game](tham-gia-d2vn/lan-dau-tham-gia-game.md)
 
-## 🪙 Tiền tệ trong game
-
-* [💲 Fgold (Tiền tệ)](tien-te-trong-game/fgold-tien-te.md)
-* [🔮 Blood Souls (Tiền tệ)](tien-te-trong-game/blood-souls-tien-te.md)
-* [🏪 Cửa hàng FGold](tien-te-trong-game/cua-hang-fgold.md)
-* [🏪 Cửa hàng Souls](tien-te-trong-game/cua-hang-souls.md)
-
 ## Event
 
 * [Sự kiện PvM](event/event-pvm/README.md)
@@ -32,6 +25,11 @@
   * [🪧 Menu Tools - Giao diện và Tính năng](wiki/tinh-nang-game/menu-tools-giao-dien-va-tinh-nang.md)
   * [👀 Magic Find là gì ? (MF)](wiki/tinh-nang-game/magic-find-la-gi-mf.md)
   * [🌎 Thay đổi ngôn ngữ game](wiki/tinh-nang-game/thay-doi-ngon-ngu-game.md)
+* [🪙 Tiền tệ trong game](wiki/tien-te-trong-game/README.md)
+  * [💲 Fgold (Tiền tệ)](wiki/tien-te-trong-game/fgold-tien-te.md)
+  * [🔮 Blood Souls (Tiền tệ)](wiki/tien-te-trong-game/blood-souls-tien-te.md)
+  * [🏪 Cửa hàng FGold](wiki/tien-te-trong-game/cua-hang-fgold.md)
+  * [🏪 Cửa hàng Souls](wiki/tien-te-trong-game/cua-hang-souls.md)
 * [💎 Runewords (LOD)](wiki/runewords-lod.md)
 * [🧙‍♂️ Skills Upgrade](wiki/skills-upgrade/README.md)
   * [Amazon](wiki/skills-upgrade/amazon.md)
@@ -57,7 +55,7 @@
   * [Area85](wiki/spot-bai-farm/area85.md)
   * [Secret Cow Level 1](wiki/spot-bai-farm/secret-cow-level-1.md)
   * [Secret Cow Level 2](wiki/spot-bai-farm/secret-cow-level-2.md)
-* [⚖️ Kênh chợ trời](wiki/kenh-cho-troi.md)
+* [⚓ Kênh chợ trời](wiki/kenh-cho-troi.md)
 * [⚔️ Chuyên sâu PVP](wiki/chuyen-sau-pvp/README.md)
   * [C-T TRICK \[ CT \]](wiki/chuyen-sau-pvp/c-t-trick-ct.md)
   * [DESYNCH BUG](wiki/chuyen-sau-pvp/desynch-bug.md)
