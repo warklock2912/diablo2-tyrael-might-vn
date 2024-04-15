@@ -1,4 +1,4 @@
-# 🔎 Toàn bộ công thức ghép đồ Runewords (LOD)
+# 💎 Runewords (LOD)
 
 ### Đồ Runewords là một loại trang bị rất mạnh ở cùng cấp độ trong Diablo II, nhưng bạn đã biết công thức ghép ra chúng? <a href="#do-runewords-la-mot-loai-trang-bi-rat-manh-o-cung-cap-do-trong-d" id="do-runewords-la-mot-loai-trang-bi-rat-manh-o-cung-cap-do-trong-d"></a>
 

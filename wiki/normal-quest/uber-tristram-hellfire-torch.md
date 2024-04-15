@@ -1,2 +1,0 @@
-# Uber Tristram - Hellfire Torch
-

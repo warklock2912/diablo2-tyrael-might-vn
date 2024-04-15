@@ -1,4 +1,4 @@
-# 📥 Cài đặt
+# ⬇️ Cài đặt
 
 **ĐÂY LÀ GAME MÁY TÍNH (PC) – IOS/ANDROID KHÔNG THỂ CHƠI​​**
 

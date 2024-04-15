@@ -1,2 +1,0 @@
-# 🌑 Normal Quest
-

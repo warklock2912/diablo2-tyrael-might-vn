@@ -1,4 +1,4 @@
-# 💰Cửa hàng Souls
+# 🏪 Cửa hàng Souls
 
 ### Hướng dẫn mở Shop D2VN:
 

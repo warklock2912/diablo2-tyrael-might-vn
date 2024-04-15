@@ -1,4 +1,4 @@
-# Giao diện và tính năng
+# 🪧 Menu Tools - Giao diện và Tính năng
 
 ### **Hướng dẫn bật Menu nâng cao :**&#x20;
 

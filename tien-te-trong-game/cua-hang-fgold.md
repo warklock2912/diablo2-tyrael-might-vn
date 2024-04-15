@@ -1,4 +1,4 @@
-# 💰Cửa hàng FGold
+# 🏪 Cửa hàng FGold
 
 ### Hướng dẫn mở Shop D2VN:
 

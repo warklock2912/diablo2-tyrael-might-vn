@@ -1,4 +1,4 @@
-# 👋Thông tin máy chủ
+# ℹ️ Thông tin máy chủ
 
 **Game:** Diablo II Lord of Destruction Version 1.13c (Classic)
 

@@ -1,8 +1,7 @@
-# Hellfire Torch Level 1
+# Uber Tristram - Hellfire Torch
 
-Keys:
+Bước đầu tiên là thu thập ba chìa khóa cần thiết để mở cổng đầu tiên trong số các cổng màu đỏ (Red Portal). Cần có Key of Hate,Terror, và Destruction, và chỉ có thể tìm thấy từ một số Boss Monsters và chỉ ở độ khó Hell.
 
-* Bước đầu tiên là thu thập ba chìa khóa cần thiết để mở cổng đầu tiên trong số các cổng màu đỏ (Red Portal). Cần có Key of Hate,Terror, và Destruction, và chỉ có thể tìm thấy từ một số Boss Monsters và chỉ ở độ khó Hell.
 * Key of Terror từ The Countess (Quest 4 Act I).
 
 ![](https://i1.wp.com/diablo2-vn.com/wp-content/uploads/2020/09/Tunnel.png?resize=1003%2C729\&ssl=1)
