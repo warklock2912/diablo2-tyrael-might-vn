@@ -36,7 +36,7 @@
 * [❔ Nhiệm vụ gốc (LOD)](wiki/nhiem-vu-goc-lod/README.md)
   * [Nhiệm vụ cơ bản (LOD)](wiki/nhiem-vu-goc-lod/nhiem-vu-co-ban-lod.md)
   * [Cow Level 1 (75+)](wiki/nhiem-vu-goc-lod/cow-level-1-75+.md)
-  * [Uber Tristram - Hellfire Torch](wiki/nhiem-vu-goc-lod/uber-tristram-hellfire-torch.md)
+  * [Uber Tristram - Hướng Dẫn Uber Tristram](wiki/nhiem-vu-goc-lod/uber-tristram-huong-dan-uber-tristram.md)
   * [Diablo Clone - Annhilus](wiki/nhiem-vu-goc-lod/diablo-clone-annhilus.md)
 * [❓ Nhiệm vụ cao cấp](wiki/nhiem-vu-cao-cap/README.md)
   * [Salvation Tower](wiki/nhiem-vu-cao-cap/salvation-tower.md)
