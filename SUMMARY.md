@@ -16,7 +16,7 @@
 
 ## Event
 
-* [Sự kiện PvM](event/event-pvm/README.md)
+* [🥴 Sự kiện PvM](event/event-pvm/README.md)
   * [Đua Top](event/event-pvm/dua-top.md)
 
 ## WIKI
