@@ -6,11 +6,7 @@ Sự thống trị của một Necromancer đối với sự sống và cái ch�
 
 Bạn có thể xem thông tin SKILL EXTRA của các nhân vật trong bảng Skill Extras ở mục kỹ năng của nhân vật trong game.
 
-Để sử dụng SKILL EXTRA, nhân vật của bạn phải sử dụng skill LOD gốc ở level của skill đó lên 20-30-40. SKILL EXTRA sẽ tự động xuất hiện theo bậc level
-
-* Skill level 20 – 1 skill extra
-* Skill level 30 – 2 skill extras
-* Skill level 40 – 3 skill extras
+Để sử dụng SKILL EXTRA, nhân vật của bạn phải sử dụng skill LOD gốc ở level của skill đó lên Level 20. SKILL EXTRA sẽ tự động xuất hiện theo bậc level
 
 SKILL EXTRA sẽ tự động xuất hiện khi các bạn đánh quái theo dạng số lượt các đòn đánh.
 

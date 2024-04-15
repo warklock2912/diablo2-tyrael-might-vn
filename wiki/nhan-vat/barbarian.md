@@ -8,7 +8,7 @@ Barbarian là một kẻ lang thang du mục, Barbarian kết hợp cơ bắp v�
 
 Bạn có thể xem thông tin SKILL EXTRA của các nhân vật trong bảng Skill Extras ở mục kỹ năng của nhân vật trong game.
 
-Để sử dụng SKILL EXTRA, nhân vật của bạn phải sử dụng skill LOD gốc ở level của skill đó lên Level 40. SKILL EXTRA sẽ tự động xuất hiện theo bậc level
+Để sử dụng SKILL EXTRA, nhân vật của bạn phải sử dụng skill LOD gốc ở level của skill đó lên Level 20. SKILL EXTRA sẽ tự động xuất hiện theo bậc level
 
 SKILL EXTRA sẽ tự động xuất hiện khi các bạn đánh quái theo dạng số lượt các đòn đánh.
 
