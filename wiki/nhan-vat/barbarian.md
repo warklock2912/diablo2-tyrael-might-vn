@@ -14,7 +14,7 @@ SKILL EXTRA sẽ tự động xuất hiện khi các bạn đánh quái theo d�
 
 | KỸ NĂNG UPGRADE      | LEVEL SKILL ĐỂ CỘNG HƯỞNG |
 | -------------------- | ------------------------- |
-| Berserk (\*)         | Level 40                  |
-| Frenzy (\*)          | Level 40                  |
-| Whirlwind (\*)       | Level 40                  |
-| Double Throwing (\*) | Level 40                  |
+| Berserk (\*)         | Level 20                  |
+| Frenzy (\*)          | Level 20                  |
+| Whirlwind (\*)       | Level 20                  |
+| Double Throwing (\*) | Level 20                  |

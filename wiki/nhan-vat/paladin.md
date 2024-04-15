@@ -7,5 +7,5 @@ Paladin là một chiến binh sẵn sàng chiến đấu với niềm tin là l
 | KỸ NĂNG UPGRADE | LEVEL SKILL ĐỂ CỘNG HƯỞNG |
 | --------------- | ------------------------- |
 | Smite (\*)      | Level 20                  |
-| Vengeance (\*)  | Level 30                  |
-| Conversion (\*) | Level 40                  |
+| Vengeance (\*)  | Level 20                  |
+| Conversion (\*) | Level 20                  |

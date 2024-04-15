@@ -12,7 +12,7 @@ SKILL EXTRA sẽ tự động xuất hiện khi các bạn đánh quái theo d�
 
 | KỸ NĂNG UPGRADE   | LEVEL SKILL ĐỂ CỘNG HƯỞNG |
 | ----------------- | ------------------------- |
-| Dragon Talon (\*) | Level 40                  |
-| Blade Shield (\*) | Level 40                  |
-| Bladefury (\*)    | Level 40                  |
-| Dragon Tail (\*)  | Level 40                  |
+| Dragon Talon (\*) | Level 20                  |
+| Blade Shield (\*) | Level 20                  |
+| Bladefury (\*)    | Level 20                  |
+| Dragon Tail (\*)  | Level 20                  |

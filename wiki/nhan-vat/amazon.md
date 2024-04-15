@@ -12,9 +12,9 @@ SKILL EXTRA sẽ tự động xuất hiện khi các bạn đánh quái theo d�
 
 | KỸ NĂNG UPGRADE      | LEVEL SKILL ĐỂ CỘNG HƯỞNG |
 | -------------------- | ------------------------- |
-| Freezing Arrow (\*)  | Level 40                  |
-| Exploding Arrow (\*) | Level 40                  |
-| Guided Arrow (\*)    | Level 40                  |
-| Strafe (\*)          | Level 40                  |
-| Magic Arrow (\*)     | Level 40                  |
-| Lightning Fury (\*)  | Level 40                  |
+| Freezing Arrow (\*)  | Level 20                  |
+| Exploding Arrow (\*) | Level 20                  |
+| Guided Arrow (\*)    | Level 20                  |
+| Strafe (\*)          | Level 20                  |
+| Magic Arrow (\*)     | Level 20                  |
+| Lightning Fury (\*)  | Level 20                  |

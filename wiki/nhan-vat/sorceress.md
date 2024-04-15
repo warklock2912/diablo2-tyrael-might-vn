@@ -16,8 +16,8 @@ SKILL EXTRA sẽ tự động xuất hiện khi các bạn đánh quái theo d�
 
 | KỸ NĂNG UPGRADE    | LEVEL SKILL ĐỂ CỘNG HƯỞNG |
 | ------------------ | ------------------------- |
-| Glacial Spike (\*) | Level 40                  |
-| Frozen Orb         | Level 40                  |
-| Lightning          | Level 40                  |
-| Chain Lightning    | Level 40                  |
-| Fireball (\*)      | Level 40                  |
+| Glacial Spike (\*) | Level 20                  |
+| Frozen Orb         | Level 20                  |
+| Lightning          | Level 20                  |
+| Chain Lightning    | Level 20                  |
+| Fireball (\*)      | Level 20                  |

@@ -16,7 +16,7 @@ SKILL EXTRA sẽ tự động xuất hiện khi các bạn đánh quái theo d�
 
 | KỸ NĂNG UPGRADE    | LEVEL SKILL ĐỂ CỘNG HƯỞNG |
 | ------------------ | ------------------------- |
-| Skeleton (\*)      | Level 40                  |
-| Skeleton Mage (\*) | Level 40                  |
-| Bone Spirit (\*)   | Level 40                  |
-| Bone Spear (\*)    | Level 40                  |
+| Skeleton (\*)      | Level 20                  |
+| Skeleton Mage (\*) | Level 20                  |
+| Bone Spirit (\*)   | Level 20                  |
+| Bone Spear (\*)    | Level 20                  |

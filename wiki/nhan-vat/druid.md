@@ -20,8 +20,8 @@ SKILL EXTRA sẽ tự động xuất hiện khi các bạn đánh quái theo d�
 
 | KỸ NĂNG UPGRADE | LEVEL SKILL ĐỂ CỘNG HƯỞNG |
 | --------------- | ------------------------- |
-| Tornado (\*)    | Level 40                  |
-| Fireclaws (\*)  | Level 40                  |
-| Fire Storm (\*) | Level 40                  |
-| Maul (\*)       | Level 40                  |
-| Fury (\*)       | Level 40                  |
+| Tornado (\*)    | Level 20                  |
+| Fireclaws (\*)  | Level 20                  |
+| Fire Storm (\*) | Level 20                  |
+| Maul (\*)       | Level 20                  |
+| Fury (\*)       | Level 20                  |
