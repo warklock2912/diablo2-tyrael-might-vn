@@ -1,23 +1,34 @@
 # Table of contents
 
-* [Về D2VN](README.md)
-  * [👋 Welcome](ve-d2vn/readme.md)
-  * [ℹ️ Thông tin máy chủ](ve-d2vn/thong-tin-may-chu.md)
-  * [🟠 Điều khoản cộng đồng](ve-d2vn/dieu-khoan-cong-dong.md)
-* [Tham gia D2VN](tham-gia-d2vn/README.md)
-  * [⬇️ Cài đặt](tham-gia-d2vn/cai-dat.md)
-  * [💸 Donate](tham-gia-d2vn/donate.md)
-  * [🛡️ Bảo vệ nhân vật](tham-gia-d2vn/bao-ve-nhan-vat.md)
-  * [🛠️ Sửa lỗi C0000005](tham-gia-d2vn/sua-loi-c0000005.md)
-  * [☄️ Lần đầu tham gia Game](tham-gia-d2vn/lan-dau-tham-gia-game.md)
-* [🪙 Tiền tệ trong game](tien-te-trong-game/README.md)
-  * [💲 Fgold (Tiền tệ)](tien-te-trong-game/fgold-tien-te.md)
-  * [🔮 Blood Souls (Tiền tệ)](tien-te-trong-game/blood-souls-tien-te.md)
-  * [🏪 Cửa hàng FGold](tien-te-trong-game/cua-hang-fgold.md)
-  * [🏪 Cửa hàng Souls](tien-te-trong-game/cua-hang-souls.md)
-* [😈 Event](event/README.md)
-  * [Sự kiện PvM](event/event-pvm/README.md)
-    * [Đua Top](event/event-pvm/dua-top.md)
+## About Us
+
+* [👋 Welcome](README.md)
+* [ℹ️ Thông tin máy chủ](about-us/thong-tin-may-chu.md)
+* [🟠 Điều khoản cộng đồng](about-us/dieu-khoan-cong-dong.md)
+
+## Tham gia D2VN
+
+* [⬇️ Cài đặt](tham-gia-d2vn/cai-dat.md)
+* [💸 Donate](tham-gia-d2vn/donate.md)
+* [🛡️ Bảo vệ nhân vật](tham-gia-d2vn/bao-ve-nhan-vat.md)
+* [🛠️ Sửa lỗi C0000005](tham-gia-d2vn/sua-loi-c0000005.md)
+* [☄️ Lần đầu tham gia Game](tham-gia-d2vn/lan-dau-tham-gia-game.md)
+
+## 🪙 Tiền tệ trong game
+
+* [💲 Fgold (Tiền tệ)](tien-te-trong-game/fgold-tien-te.md)
+* [🔮 Blood Souls (Tiền tệ)](tien-te-trong-game/blood-souls-tien-te.md)
+* [🏪 Cửa hàng FGold](tien-te-trong-game/cua-hang-fgold.md)
+* [🏪 Cửa hàng Souls](tien-te-trong-game/cua-hang-souls.md)
+
+## Event
+
+* [Sự kiện PvM](event/event-pvm/README.md)
+  * [Đua Top](event/event-pvm/dua-top.md)
+
+***
+
+* [😈 Event](event-1.md)
 * [Wiki](wiki/README.md)
   * [⚡ Tính năng Game](wiki/tinh-nang-game/README.md)
     * [🪧 Menu Tools - Giao diện và Tính năng](wiki/tinh-nang-game/menu-tools-giao-dien-va-tinh-nang.md)
