@@ -1,4 +1,4 @@
-# 🔰  Lần đầu tham gia Game
+# ☄️ Lần đầu tham gia Game
 
 ### HƯỚNG DẪN TẠO TÀI KHOẢN VÀ ĐĂNG NHẬP GAME:
 
