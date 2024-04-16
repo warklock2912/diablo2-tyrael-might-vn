@@ -15,4 +15,3 @@ SKILL EXTRA sẽ tự động xuất hiện khi các bạn đánh quái theo d�
 | Freezing Arrow (\*)  | Level 20                  |
 | Exploding Arrow (\*) | Level 20                  |
 | Guide Arrow (\*)     | Level 20                  |
-| Magic Arrow (\*)     | Level 20                  |

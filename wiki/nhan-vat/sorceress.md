@@ -14,10 +14,10 @@ Bạn có thể xem thông tin SKILL EXTRA của các nhân vật trong bảng S
 
 SKILL EXTRA sẽ tự động xuất hiện khi các bạn đánh quái theo dạng số lượt các đòn đánh.
 
-| KỸ NĂNG UPGRADE    | LEVEL SKILL ĐỂ CỘNG HƯỞNG |
-| ------------------ | ------------------------- |
-| Glacial Spike (\*) | Level 20                  |
-| Frozen Orb         | Level 20                  |
-| Lightning          | Level 20                  |
-| Chain Lightning    | Level 20                  |
-| Fireball (\*)      | Level 20                  |
+| KỸ NĂNG UPGRADE      | LEVEL SKILL ĐỂ CỘNG HƯỞNG |
+| -------------------- | ------------------------- |
+| Glacial Spike (\*)   | Level 20                  |
+| Frozen Orb (\*)      | Level 20                  |
+| Lightning (\*)       | Level 20                  |
+| Chain Lightning (\*) | Level 20                  |
+| Fireball (\*)        | Level 20                  |
