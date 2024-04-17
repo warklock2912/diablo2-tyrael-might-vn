@@ -16,9 +16,10 @@ Link Donate Credit Card
 {% hint style="info" %}
 Tên tài khoản đăng nhập game thôi nhé, không phải tên nhân vật. Ví dụ tài khoản là **s12 hongsochet**  thì ghi phần nội dung là **s12 hongsochet** thôi nhé.
 
+Lưu ý : Chơi Server nào thì Donate ở Server đấy, dưới đây là ví dụ :
+
 * S20 TÊNTK với máy chủ SALVATION
-* S19 TÊNTK với máy chủ AZMODON
-* S17 TÊNTK Với máy chủ LICHKING
+* S21 TÊNTK với máy chủ Mới
 
 Tên TK là tên đăng nhập trong game của bạn.
 {% endhint %}
