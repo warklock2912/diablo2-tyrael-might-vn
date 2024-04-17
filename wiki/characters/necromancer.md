@@ -2,7 +2,7 @@
 
 Sự thống trị của một Necromancer đối với sự sống và cái chết ban cho nhà bào chế thuốc khủng khiếp này khả năng triệu tập các đội quân xương và yêu tinh, đồng thời giải phóng chất độc, lời nguyền và kỹ năng xương độc hại lên kẻ thù của mình.
 
-**SKILL EXTRA**
+## **SKILL EXTRA**
 
 Bạn có thể xem thông tin SKILL EXTRA của các nhân vật trong bảng Skill Extras ở mục kỹ năng của nhân vật trong game.
 
@@ -10,9 +10,9 @@ Bạn có thể xem thông tin SKILL EXTRA của các nhân vật trong bảng S
 
 SKILL EXTRA sẽ tự động xuất hiện khi các bạn đánh quái theo dạng số lượt các đòn đánh.
 
-| KỸ NĂNG UPGRADE    | LEVEL SKILL ĐỂ CỘNG HƯỞNG |
-| ------------------ | ------------------------- |
-| Skeleton (\*)      | Level 20                  |
-| Skeleton Mage (\*) | Level 20                  |
-| Bone Spirit (\*)   | Level 20                  |
-| Bone Spear (\*)    | Level 20                  |
+#### **Kỹ năng cộng hưởng khi skill gốc đạt level 20 là :**
+
+* Skeleton : Level 20
+* Skeleton Mage : Level 20
+* Bone Spirit : Level 20
+* Bone Spear : Level 20

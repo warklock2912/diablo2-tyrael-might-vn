@@ -10,9 +10,9 @@ Bạn có thể xem thông tin SKILL EXTRA của các nhân vật trong bảng S
 
 SKILL EXTRA sẽ tự động xuất hiện khi các bạn đánh quái theo dạng số lượt các đòn đánh.
 
-| KỸ NĂNG UPGRADE   | LEVEL SKILL ĐỂ CỘNG HƯỞNG |
-| ----------------- | ------------------------- |
-| Dragon Talon (\*) | Level 20                  |
-| Dragon Claw (\*)  | Level 20                  |
-| Bladefury (\*)    | Level 20                  |
-| Dragon Tail (\*)  | Level 20                  |
+#### **Kỹ năng cộng hưởng khi skill gốc đạt level 20 là :**
+
+* Dragon Talon : Level 20
+* Dragon Claw : Level 20
+* Dragon Tail : Level 20
+* Blade Fury : Level 20
