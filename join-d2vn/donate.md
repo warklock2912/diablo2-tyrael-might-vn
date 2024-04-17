@@ -13,7 +13,7 @@ Link Donate Credit Card
 
 <figure><img src="../.gitbook/assets/image (6) (1).png" alt=""><figcaption></figcaption></figure>
 
-{% hint style="info" %}
+{% hint style="warning" %}
 Tên tài khoản đăng nhập game thôi nhé, không phải tên nhân vật. Ví dụ tài khoản là **s12 hongsochet**  thì ghi phần nội dung là **s12 hongsochet** thôi nhé.
 
 Lưu ý : Chơi Server nào thì Donate ở Server đấy, dưới đây là ví dụ :

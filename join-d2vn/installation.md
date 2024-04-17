@@ -2,11 +2,13 @@
 
 **ĐÂY LÀ GAME MÁY TÍNH (PC) – IOS/ANDROID KHÔNG THỂ CHƠI​​**
 
-| TẢI XUỐNG BẢN CÀI ĐẶT GAME – CHỌN 1 TRONG 3                               | ĐƯỜNG LINK                                       |
-| ------------------------------------------------------------------------- | ------------------------------------------------ |
-| <p>Máy chủ Việt Nam<br>(Tốc độ download nhanh)</p>                        | [Tải xuống](https://diablo2-vn.com/download.php) |
-| <p>Máy chủ Google Drive<br>(Đây là link dự phòng nếu link chính chết)</p> | [Tải xuống](https://diablo2-vn.com/download.php) |
-| <p>Máy chủ Google Drive<br>(Đây là link dự phòng nếu link chính chết)</p> | [Tải xuống](https://diablo2-vn.com/download.php) |
+{% hint style="warning" %}
+TẢI XUỐNG BẢN CÀI ĐẶT GAME – CHỌN 1 TRONG 3:
+
+* Máy chủ Việt Nam (Tốc độ download nhanh) : [Tải xuống](https://diablo2-vn.com/download.php)
+* Máy chủ Google Drive (Đây là link dự phòng nếu link chính chết) : [Tải xuống](https://diablo2-vn.com/download.php)
+* Máy chủ Google Drive (Đây là link dự phòng nếu link chính chết) : [Tải xuống](https://diablo2-vn.com/download.php)
+{% endhint %}
 
 Bước 1: Ngay sau khi tải về các bạn giải nén File D2VN\_setup.rar (hoặc có thể mở trực tiếp trong file như hình).
 
