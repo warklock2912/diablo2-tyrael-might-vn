@@ -8,19 +8,18 @@
 
 Như vậy là anh em đã hoàn thành xong việc tạo lấy 1 con tài khoản game rồi. Sau đây có 1 vài lưu ý nhỏ cho anh em:
 
-* Khi anh em tạo nhân vật mới sẽ được tặng [CHEST NEWBIE](https://diablo2-vn.com/tm/vat-pham/chest-newbie-va-nhung-dieu-can-luu-y/) ngay khi vô game thay vì phải mua nhé, để mở CHEST anh em lưu ý để túi đồ của mình trống mới mở được nha. Video khởi đầu với CHEST ITEM cho anh em [tham khảo](https://www.youtube.com/playlist?list=PL6cS6t9UKFmXKR71uJ0sre1bF1-75KdUY)
+
+
+{% hint style="info" %}
+Khi anh em tạo nhân vật mới sẽ được tặng [CHEST NEWBIE](https://diablo2-vn.com/tm/vat-pham/chest-newbie-va-nhung-dieu-can-luu-y/) ngay khi vô game thay vì phải mua nhé, để mở CHEST anh em lưu ý để túi đồ của mình trống mới mở được nha. Video khởi đầu với CHEST ITEM cho anh em [tham khảo](https://www.youtube.com/playlist?list=PL6cS6t9UKFmXKR71uJ0sre1bF1-75KdUY)
+
+* Tất nhiên là nó chỉ áp dụng khi đã mở Server được 3 tháng, còn đối với Server mới thì điều này không áp dụng lên
+{% endhint %}
+
+* Video khởi đầu với CHEST ITEM cho anh em [tham khảo](https://www.youtube.com/playlist?list=PL6cS6t9UKFmXKR71uJ0sre1bF1-75KdUY)
 * Khi chưa có đồ :\
   Rủ bạn bè đi chung , vừa nhiều exp lên level nhanh khi kill quái , vừa nhàn mà ít bị chết , tiết kiệm thời gian cực lớn. Rủ nhau đi chung làm quest đê được bonus nhưng chỉ số sức mạnh.\
   Bạn được them 12 điểm skill , 15 điểm start point , 30 res all , 3 lần socket đồ và vài rune cho 1 char (character) khi làm hết các quest normal , night , hell
-* Khi level 60 :\
-  Rủ nhau đi chung qua hell , rồi lien tiếp lập room đi BH (baal hell) cang nhiều càng tốt , BH nếu full char (8 char) trong room bạn sẽ có tốc độ lên level nhanh hơn bất kì nơi nào trong game.\
-  LƯU Ý : exp nhận được để lên level phụ thuộc vào level hiện có của char bạn và những người đi chung. Cho nên :&#x20;
-* Từ lv1 đến 20 : bạn hãy đi cùng những người level dưới 25 cung nhau đánh act1 normal , act 2 normal. Nếu qua act 2 hãy train ở waypoint cuối act2 để lên lv20 nhé.
-* Từ lv20 đến 25 : hãy đi cow level normal nếu có thể. (có thể rush normal- qua màn và giết baal act5 rồi quay lại đánh cow normal) Hoặc baal normal
-* Từ lv25 đến 40 : level 25 bạn có thể đi chung với bất kì char level cao nào mà vẫn nhận exp đầy đủ.Nếu có khả năng (có người giúp) nên đi chaos of sanctuary act4 night để lên level 40. Không thì rủ nhau baal normal lên 40.
-* Lv40 đến 60 : level 40 bạn đủ điều kiện qua night , hãy đánh baal night để hoàn thành night. Sau đó nếu có thể (có người kéo) đi chaos hell lên đến lv60. Nếu không hãy baal night đến lv60\
-  \+Lv60 bạn đủ khả năng qua hell : hãy rush hell để hoàn thành hell. Hãy rủ nhau BH lien tục lên lv , ít nhất cũng 7x để có thể tách riêng đi 1 mình dễ dàng.
-* Khi có level 7x :&#x20;
 
 1. Hãy nghĩ ngay đến cow hell để kiếm item có socket ép per toza vào tăng %MF
 2. Đủ item (áo + nón ) socket per toza là ta có MF kha khá , bạn có thể tìm mephisto hell xin nó ít đồ , bạn có đi vài nghìn lần mephiso hell cũng xứng đáng , nó luôn được các mem yêu thích vì khả năng drop đồ rất đáng yêu và dễ đánh.(bạn có thể đánh mephisto 1 mình mà không mất máu , hãy hỏi các bạn trong game chỉ cho nhé , cái này vào game chỉ đơn giản ,5’ thôi, nói ra thì dài dòng lắm.
@@ -32,4 +31,3 @@ Như vậy là anh em đã hoàn thành xong việc tạo lấy 1 con tài kho�
 * Farm ở các map 85, anh em cứ chịu khó đi, 100 – 200 room chưa có gì cũng đừng nản, có những lúc mình chạy cả 5-600 room được 2-3 món ngon là hoàn toàn bình thường.\
   \-> Mục tiêu: chúng ta sẽ farm kiếm các trang bị hịn hơn để build
 * Rồi khi build các char khá là khoẻ rồi thì chúng ta chuyển qua tập trung farm và biết đâu quá trình farm chúng ta lại có nhiều đồ ngon hơn để sẵn sàng hướng đến mục tiêu chinh phục tiếp theo là map SALVATION 1. (Mở Extra Quest trong Quest - Bấm nút Q và chọn vào biểu tượng Extra Quest gần nút ? để xem).
-* Thứ tự đi map hiện tại là : Salvation (Mod Map 1 – MM1) – Lich King (Mod Map 2 – MM2) – Uber 2 – Cow2 Hell
