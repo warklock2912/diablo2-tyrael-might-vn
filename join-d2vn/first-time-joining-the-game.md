@@ -2,9 +2,51 @@
 
 ### HƯỚNG DẪN TẠO TÀI KHOẢN VÀ ĐĂNG NHẬP GAME:
 
-<table data-header-hidden><thead><tr><th width="359"></th><th></th></tr></thead><tbody><tr><td><img src="https://i0.wp.com/diablo2-vn.com/wp-content/uploads/2020/02/Game.png?resize=804%2C627&#x26;ssl=1" alt="Game.png"></td><td><p>Bước 1:</p><ul><li>Chọn Server Online để chiến nhé !</li></ul></td></tr><tr><td><img src="https://i1.wp.com/diablo2-vn.com/wp-content/uploads/2020/02/login.png?resize=803%2C625&#x26;ssl=1" alt="login.png"> <img src="https://i0.wp.com/diablo2-vn.com/wp-content/uploads/2020/02/Creat1.png?resize=804%2C628&#x26;ssl=1" alt="Creat1.png"></td><td><p><strong>Bước 2:</strong></p><ul><li>Điền tài khoản và mật khẩu của bạn sau đó ấn vào nút LOG IN</li><li>Nếu bạn chưa có tài khoản ấn vào Create New Account để đăng ký.</li><li>Nhập tài khoản bạn muốn đăng nhập và mật khẩu</li></ul></td></tr><tr><td><img src="https://i0.wp.com/diablo2-vn.com/wp-content/uploads/2020/02/Creat1.png?resize=804%2C628&#x26;ssl=1" alt="Creat1.png"></td><td><ul><li>Nhớ sử dụng gmail chính gốc để kích hoạt tài khoản Master nhé</li></ul></td></tr><tr><td><img src="https://i2.wp.com/diablo2-vn.com/wp-content/uploads/2020/02/char.png?resize=805%2C629&#x26;ssl=1" alt="char.png"></td><td><ul><li>1 Tạo nhân vật</li><li>2 Chon Realm</li></ul></td></tr><tr><td><img src="https://i1.wp.com/i.imgur.com/BGiadTe.jpg?w=1020" alt="[Image: BGiadTe.jpg]"> <img src="https://i2.wp.com/diablo2-vn.com/wp-content/uploads/2020/02/createroom.png?resize=803%2C625&#x26;ssl=1" alt="createroom.png"> <img src="https://i2.wp.com/diablo2-vn.com/wp-content/uploads/2020/02/Join.png?resize=802%2C629&#x26;ssl=1" alt="Join.png"> <img src="https://i2.wp.com/diablo2-vn.com/wp-content/uploads/2020/02/Enter-chat.png?resize=804%2C628&#x26;ssl=1" alt="Enter-chat.png"> <img src="https://i0.wp.com/diablo2-vn.com/wp-content/uploads/2020/02/ladder.png?resize=804%2C627&#x26;ssl=1" alt="ladder.png"></td><td><p><strong>Bước 3:</strong> Trong đó các bạn cần lưu ý các mục chính từ 1->4</p><ul><li>1. Tạo phòng mới, điền tên phòng vô game name và bấm creat game để vào game</li><li>2. Tham gia phòng</li><li>3. Tham gia phòng chat</li><li>4. Xem bảng xếp hạng</li></ul></td></tr><tr><td><img src="https://i1.wp.com/diablo2-vn.com/wp-content/uploads/2020/02/Welcome.png?resize=1006%2C826&#x26;ssl=1" alt="Welcome.png"></td><td><ul><li>Chúc các bạn chơi Game vui vẻ !! Welcome to Server Diablo2 – VietNam</li></ul></td></tr></tbody></table>
+Bước 1:
 
-&#x20;
+* Chọn Server Online để chiến nhé !
+
+<figure><img src="../.gitbook/assets/Game.webp" alt=""><figcaption></figcaption></figure>
+
+**Bước 2:**
+
+* Điền tài khoản và mật khẩu của bạn sau đó ấn vào nút LOG IN
+* Nếu bạn chưa có tài khoản ấn vào Create New Account để đăng ký.
+* Nhập tài khoản bạn muốn đăng nhập và mật khẩu
+
+<figure><img src="../.gitbook/assets/login.webp" alt=""><figcaption></figcaption></figure>
+
+* Nhớ sử dụng gmail chính gốc để kích hoạt tài khoản Master nhé
+
+<figure><img src="../.gitbook/assets/Creat1.webp" alt=""><figcaption></figcaption></figure>
+
+Bước 3 :
+
+* Tạo nhân vật
+* 2 Chon Realm Server
+
+<figure><img src="../.gitbook/assets/char.webp" alt=""><figcaption></figcaption></figure>
+
+**Bước 4:** Trong đó các bạn cần lưu ý các mục chính từ 1->4
+
+* 1\. Tạo phòng mới, điền tên phòng vô game name và bấm creat game để vào game
+* 2\. Tham gia phòng
+* 3\. Tham gia phòng chat
+* 4\. Xem bảng xếp hạng
+
+<figure><img src="../.gitbook/assets/BGiadTe.jpg" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/createroom.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Join.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/Enter-chat.webp" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/ladder.webp" alt=""><figcaption></figcaption></figure>
+
+* Chúc các bạn chơi Game vui vẻ !! Welcome to Server Diablo2 – VietNam
+
+<figure><img src="../.gitbook/assets/Welcome.webp" alt=""><figcaption></figcaption></figure>
 
 Như vậy là anh em đã hoàn thành xong việc tạo lấy 1 con tài khoản game rồi. Sau đây có 1 vài lưu ý nhỏ cho anh em:
 
