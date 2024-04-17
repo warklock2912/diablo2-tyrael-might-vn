@@ -12,7 +12,7 @@
 **Ladder (Mùa Hiện tại):**
 
 * Mùa S20 (3 Dec 2023)
-* Mùa S21 ()
+* Mùa S21 (17 Apr 2024)
 
 {% embed url="https://www.youtube.com/watch?v=Z-J6FwWw6ps" %}
 
