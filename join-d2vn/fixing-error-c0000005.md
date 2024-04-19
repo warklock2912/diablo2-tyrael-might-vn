@@ -14,4 +14,6 @@ Bước 2 : Sau khi gõ xong rồi click chọn, bạn sẽ hiển thị 1 cái 
 
 ![](https://i0.wp.com/diablo2-vn.com/tm/app/uploads/2023/09/3-1-1.png?resize=653%2C1100\&ssl=1)
 
-Sau khi hoàn thành các bước trên, các bạn vui lòng reset lại máy là chơi bình thường nhé.![](https://i0.wp.com/diablo2-vn.com/tm/app/uploads/2023/09/4.png?resize=854%2C1439\&ssl=1)
+Sau khi hoàn thành các bước trên, các bạn vui lòng reset lại máy là chơi bình thường nhé.
+
+<figure><img src="https://i0.wp.com/diablo2-vn.com/tm/app/uploads/2023/09/4.png?resize=854%2C1439&#x26;ssl=1" alt=""><figcaption></figcaption></figure>
