@@ -8,17 +8,6 @@
 [salvation-reward-upgrade.md](../reward-extra-quest/salvation-reward-upgrade.md)
 {% endcontent-ref %}
 
-{% hint style="success" %}
-Phụ Lục Tìm Hiểu :&#x20;
-
-* [**Mở đầu**](https://diablo2-vn.com/tm/docs/wiki/a/extra-quest-nhiem-vu-mo-rong/salvation-tower/#mo-dau)
-* [**Trong Salvation Tower có gì**](https://diablo2-vn.com/tm/docs/wiki/a/extra-quest-nhiem-vu-mo-rong/salvation-tower/#mo-dau) **?**
-* [**Ảnh và Video phụ bản**](https://diablo2-vn.com/tm/docs/wiki/a/extra-quest-nhiem-vu-mo-rong/salvation-tower/#salva4)
-* [**Cách vào phụ bản Salvation Tower**](https://diablo2-vn.com/tm/docs/wiki/a/extra-quest-nhiem-vu-mo-rong/salvation-tower/#salva2)
-* [**Công thức cube tạo vé vào phụ bản**](https://diablo2-vn.com/tm/docs/wiki/a/extra-quest-nhiem-vu-mo-rong/salvation-tower/#salva3)
-* [**Sơ lược và cốt truyện Salvation Tower**](https://diablo2-vn.com/tm/docs/wiki/a/extra-quest-nhiem-vu-mo-rong/salvation-tower/#salva5)
-{% endhint %}
-
 ### **The Pandemonium Special Event Quest III** <a href="#mo-dau" id="mo-dau"></a>
 
 \
