@@ -1,4 +1,8 @@
-# 💸 Donate
+---
+icon: lightbulb-exclamation
+---
+
+# Donate
 
 Hướng dẫn Donate:
 

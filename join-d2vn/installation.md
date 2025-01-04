@@ -1,4 +1,8 @@
-# ⬇️ Cài đặt
+---
+icon: lightbulb-exclamation
+---
+
+# Làm thế nào để cài game
 
 **ĐÂY LÀ GAME MÁY TÍNH (PC) – IOS/ANDROID KHÔNG THỂ CHƠI​​**
 
@@ -14,11 +18,7 @@ Bước 1: Ngay sau khi tải về các bạn giải nén File D2VN\_setup.rar (
 
 Và mở D2VN\_Setup.exe lên nhé !!
 
-<div align="center">
-
-<figure><img src="https://i0.wp.com/diablo2-vn.com/tm/app/uploads/2024/01/1700740885187.png?resize=1378%2C778&#x26;ssl=1" alt=""><figcaption></figcaption></figure>
-
-</div>
+<div align="center"><figure><img src="https://i0.wp.com/diablo2-vn.com/tm/app/uploads/2024/01/1700740885187.png?resize=1378%2C778&#x26;ssl=1" alt=""><figcaption></figcaption></figure></div>
 
 Bước 2: Sau khi cài đặt xong các bạn khởi chạy launcher D2VN ngoài màn hình Desktop của mình nhé.
 

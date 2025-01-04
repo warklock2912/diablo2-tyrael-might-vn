@@ -1,8 +1,9 @@
 ---
 description: Hướng dẫn sửa lỗi C00000005
+icon: lightbulb-exclamation
 ---
 
-# 🛠️ Sửa lỗi C0000005
+# Sửa lỗi C0000005
 
 Bước 1 : Vào seach hoặc Run rồi gõ SystemPropertiesPerformance.exe
 

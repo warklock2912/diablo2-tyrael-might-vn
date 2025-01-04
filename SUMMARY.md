@@ -6,13 +6,14 @@
 * [ℹ️ Thông tin máy chủ](about-us/server-information.md)
 * [🟠 Điều khoản cộng đồng](about-us/community-guidelines.md)
 
-## Tham gia D2VN <a href="#join-d2vn" id="join-d2vn"></a>
+## 🎮 HƯỚNG DẪN NHẬP MÔN <a href="#join-d2vn" id="join-d2vn"></a>
 
-* [⬇️ Cài đặt](join-d2vn/installation.md)
-* [💸 Donate](join-d2vn/donate.md)
-* [🛡️ Bảo vệ nhân vật](join-d2vn/character-protection.md)
-* [🛠️ Sửa lỗi C0000005](join-d2vn/fixing-error-c0000005.md)
-* [☄️ Lần đầu tham gia Game](join-d2vn/first-time-joining-the-game.md)
+* [Làm thế nào để cài game](join-d2vn/installation.md)
+* [Đăng ký tài khoản](join-d2vn/first-time-joining-the-game.md)
+* [Tạo nhân vật](join-d2vn/tao-nhan-vat.md)
+* [Donate](join-d2vn/donate.md)
+* [Bảo vệ nhân vật](join-d2vn/character-protection.md)
+* [Sửa lỗi C0000005](join-d2vn/fixing-error-c0000005.md)
 
 ## Event
 

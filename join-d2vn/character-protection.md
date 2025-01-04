@@ -1,4 +1,8 @@
-# 🛡️ Bảo vệ nhân vật
+---
+icon: lightbulb-exclamation
+---
+
+# Bảo vệ nhân vật
 
 ### Nhằm tăng độ bảo mật cho nhân vật của người chơi tránh bị loot hay phá acc không mong muốn, D2VN đã làm thêm lớp bảo mật cho nhân vật của người chơi.
 
