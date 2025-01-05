@@ -4,7 +4,19 @@ icon: lightbulb-exclamation
 
 # Tạo nhân vật
 
-Bước 3 :
+## Hướng dẫn tạo nhân vật và tham gia game
+
+Xin chào người phiêu lưu, để bắt đầu,  sau khi tạo tài khoản của bạn. Bây giờ tiếp tới chúng ta tạo nhân vật và tham gia vào game.
+
+
+
+### Step 1: Tạo nhân vật
+
+
+
+{% hint style="info" %}
+&#x20;S1  -Số 1 Các bạn ấn vào nút CREATE NEW CHARACTER để tạo nhân vật mới
+{% endhint %}
 
 * Tạo nhân vật
 * 2 Chon Realm Server
