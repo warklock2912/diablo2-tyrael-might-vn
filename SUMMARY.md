@@ -12,6 +12,7 @@
 * [Đăng ký tài khoản](join-d2vn/first-time-joining-the-game.md)
 * [Tham gia InGame](join-d2vn/tham-gia-ingame.md)
 * [Các chỉ số của nhân vật](join-d2vn/cac-chi-so-cua-nhan-vat.md)
+* [Controls - HUD/KEY](join-d2vn/menu-tools-interface-and-features.md)
 * [Donate](join-d2vn/donate.md)
 * [Bảo vệ nhân vật](join-d2vn/character-protection.md)
 * [Sửa lỗi C0000005](join-d2vn/fixing-error-c0000005.md)
@@ -24,7 +25,6 @@
 ## WIKI
 
 * [⚡ Tính năng Game](wiki/game-features/README.md)
-  * [🪧 Menu Tools - Giao diện và Tính năng](wiki/game-features/menu-tools-interface-and-features.md)
   * [👀 Magic Find là gì ? (MF)](wiki/game-features/what-is-magic-find-mf.md)
   * [🌎 Thay đổi ngôn ngữ game](wiki/game-features/changing-the-game-language.md)
 * [🧙‍♂️ Nhân vật](wiki/characters/README.md)
