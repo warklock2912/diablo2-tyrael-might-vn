@@ -10,7 +10,8 @@
 
 * [Làm thế nào để cài game](join-d2vn/installation.md)
 * [Đăng ký tài khoản](join-d2vn/first-time-joining-the-game.md)
-* [Tạo nhân vật](join-d2vn/tao-nhan-vat.md)
+* [Tham gia InGame](join-d2vn/tham-gia-ingame.md)
+* [Các chỉ số của nhân vật](join-d2vn/cac-chi-so-cua-nhan-vat.md)
 * [Donate](join-d2vn/donate.md)
 * [Bảo vệ nhân vật](join-d2vn/character-protection.md)
 * [Sửa lỗi C0000005](join-d2vn/fixing-error-c0000005.md)

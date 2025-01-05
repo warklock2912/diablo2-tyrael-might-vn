@@ -1,6 +1,6 @@
 # Area85
 
-> Pits ( hay còn gọi là area85 ) là một vùng đất đặc biết mà ở đó tất cả các monster đều có lv85. Đây là một khu vực có monster đều khá dễ đánh và rơi một lượng trang bị khá là tốt vd _DIADEM, TROLL BELT, CORONA,….._ngoài ra còn có cả _SOUL_, _CHEST SOUL_ và cả _High Rune._ Và vùng area85 này chỉ phổ biến ở ở Hell, và tất nhiên mức độ Normol và Nightmare không hề có.
+> Pits ( hay còn gọi là area85 ) là một vùng đất đặc biết mà ở đó tất cả các monster đều có lv85. Đây là một khu vực có monster đều khá dễ đánh và rơi một lượng trang bị khá là tốt vd _DIADEM, TROLL BELT, CORONA,….._&#x6E;goài ra còn có cả _SOUL_, _CHEST SOUL_ và cả _High Rune._ Và vùng area85 này chỉ phổ biến ở ở Hell, và tất nhiên mức độ Normol và Nightmare không hề có.
 >
 > Đây là một số nơi Area85 ở Hell&#x20;
 
