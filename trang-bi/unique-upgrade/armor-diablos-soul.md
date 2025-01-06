@@ -30,6 +30,15 @@ Item Upgrade Common được ép cube từ các Unique 85, khi săn quái vật 
 
 
 
+Reroll Diablo's Soul (Hay còn gọi là làm mới Items)
+
+* Chắc chắn là điều mà bất kỳ người chơi nào cũng muốn 1 Items cho chỉ số cao nhất và đẹp nhất.
+* Để làm mới Items cần nguyên liệu Soul Stone (Mua ở Shop D2VN)
+
+<figure><img src="../../.gitbook/assets/diablosoul.gif" alt=""><figcaption><p>Reroll Diablo Souls</p></figcaption></figure>
+
+
+
 ## **NÂNG CẤP**
 
 – Diablo's Soul Upgrade có thể nâng cấp lên **Rare** và **Perfect**\
