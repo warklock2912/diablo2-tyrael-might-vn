@@ -6,7 +6,7 @@ Item Upgrade Common được ép cube từ các Unique 85, khi săn quái vật 
 
 ## Unique Upgrade Info
 
-<div data-full-width="false"><figure><img src="../../.gitbook/assets/image (3).png" alt="" width="563"><figcaption><p>*Teleport random 0 - 1</p></figcaption></figure></div>
+<div data-full-width="false"><figure><img src="../../.gitbook/assets/image (7).png" alt="" width="563"><figcaption><p>*Teleport random 0 - 1</p></figcaption></figure></div>
 
 
 

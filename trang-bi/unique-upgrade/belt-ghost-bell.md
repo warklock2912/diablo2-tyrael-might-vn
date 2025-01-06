@@ -8,7 +8,7 @@ Unique Upgrade Info\
  <a href="#unique-upgrade-info" id="unique-upgrade-info"></a>
 -------------------------------------------------------------
 
-<figure><img src="../../.gitbook/assets/image (6).png" alt="" width="350"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (10).png" alt="" width="350"><figcaption></figcaption></figure>
 
 ##
 

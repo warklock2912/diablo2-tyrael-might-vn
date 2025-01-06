@@ -8,7 +8,7 @@ Unique Upgrade Info\
  <a href="#unique-upgrade-info" id="unique-upgrade-info"></a>
 -------------------------------------------------------------
 
-<figure><img src="../../.gitbook/assets/image (7).png" alt="" width="318"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (11).png" alt="" width="318"><figcaption></figcaption></figure>
 
 ## **Công thức cube**
 

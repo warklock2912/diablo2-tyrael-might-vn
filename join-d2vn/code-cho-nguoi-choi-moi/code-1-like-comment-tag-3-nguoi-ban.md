@@ -37,9 +37,9 @@ Phần thưởng Chest Newbie đã có đủ các món trang bị cơ bản giú
 2. Chọn mục **Giftcode**.
 3. Tìm **Newbie** và chọn **Buy** để nhận thưởng.
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (4).png" alt=""><figcaption></figcaption></figure>
 
-<figure><img src="../../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (5).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="success" %}
 Chest Newbie là vật phẩm quan trọng trong bước khởi đầu đới với người chơi mới.
