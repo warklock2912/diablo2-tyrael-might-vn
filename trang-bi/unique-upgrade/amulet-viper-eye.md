@@ -33,12 +33,14 @@ Người chơi có thể ép Viper Eye bằng 1 trong 3 Unique sau\
 
 ## Reroll Viper Eye (Hay còn gọi là làm mới Items)
 
+<figure><img src="../../.gitbook/assets/VieprEye.gif" alt=""><figcaption><p>Reroll items</p></figcaption></figure>
+
+### Giải thích:
+
 * Chắc chắn là điều mà bất kỳ người chơi nào cũng muốn 1 Items cho chỉ số cao nhất và đẹp nhất.
 * Để làm mới Items cần nguyên liệu Soul Stone (Mua ở Shop D2VN)
 
-
-
-
+<figure><img src="../../.gitbook/assets/SoulSton.gif" alt=""><figcaption><p>Soul Stone</p></figcaption></figure>
 
 
 

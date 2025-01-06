@@ -21,25 +21,23 @@ Item Upgrade Common được ép cube từ các Unique 85, khi săn quái vật 
 ## **Giải thích**
 
 – **Dark Soul Unique**: Là Unique 85 có thể drop ở các khu vực Arena 85 trở lên hoặc Extra Quest.\
-– **Runeword Soul (Enigma)**: Đổi trực tiếp trong Shop D2VN, nguyên liệu là **1 Runeword Enigma**.&#x20;
-
-<figure><img src="../../.gitbook/assets/video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
-
-\
+– **Runeword Soul (Enigma)**: Đổi trực tiếp trong Shop D2VN, nguyên liệu là **1 Runeword Enigma**. \
 – **Magic Orb**: Có thể ghép từ các fragment drop tại Extra Quest Ice Crownd hoặc mua ở Shop Soul.
 
-
+<figure><img src="../../.gitbook/assets/video-to-gif-converter.gif" alt=""><figcaption></figcaption></figure>
 
 
 
 ## Reroll Diablo's Soul (Hay còn gọi là làm mới Items)
 
+<figure><img src="../../.gitbook/assets/diablosoul.gif" alt=""><figcaption><p>Reroll Diablo Souls</p></figcaption></figure>
+
+### Giải thích:
+
 * Chắc chắn là điều mà bất kỳ người chơi nào cũng muốn 1 Items cho chỉ số cao nhất và đẹp nhất.
 * Để làm mới Items cần nguyên liệu Soul Stone (Mua ở Shop D2VN)
 
-<figure><img src="../../.gitbook/assets/diablosoul.gif" alt=""><figcaption><p>Reroll Diablo Souls</p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/SoulSton.gif" alt=""><figcaption></figcaption></figure>
 
 
 

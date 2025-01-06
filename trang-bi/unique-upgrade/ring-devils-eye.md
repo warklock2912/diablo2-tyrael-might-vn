@@ -29,12 +29,14 @@ Người chơi có thể ép Devil's Eye bằng 1 trong 3 Unique sau\
 
 ## Reroll Devil's Eye (Hay còn gọi là làm mới Items)
 
+<figure><img src="../../.gitbook/assets/devilring.gif" alt=""><figcaption><p>Reroll Items</p></figcaption></figure>
+
+### Giải thích:
+
 * Chắc chắn là điều mà bất kỳ người chơi nào cũng muốn 1 Items cho chỉ số cao nhất và đẹp nhất.
 * Để làm mới Items cần nguyên liệu Soul Stone (Mua ở Shop D2VN)
 
-<figure><img src="../../.gitbook/assets/devilring.gif" alt=""><figcaption><p>Reroll Items</p></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/SoulSton.gif" alt=""><figcaption></figcaption></figure>
 
 ## **NÂNG CẤP**
 
