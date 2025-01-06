@@ -31,6 +31,7 @@
   * [Salvation Standard Charm](trang-bi/reward-extra-quest/salvation-standard-charm/README.md)
     * [Cường hoá](trang-bi/reward-extra-quest/salvation-standard-charm/cuong-hoa.md)
     * [Roll chỉ số](trang-bi/reward-extra-quest/salvation-standard-charm/roll-chi-so.md)
+  * [Lich King Sword Charm](trang-bi/reward-extra-quest/lich-king-sword-charm.md)
 * [Runewords (LOD)](wiki/runewords-lod.md)
 
 ## 📚 Game System
