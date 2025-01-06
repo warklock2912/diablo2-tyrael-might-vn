@@ -31,6 +31,17 @@ Người chơi có thể ép Viper Eye bằng 1 trong 3 Unique sau\
 
 
 
+## Reroll Viper Eye (Hay còn gọi là làm mới Items)
+
+* Chắc chắn là điều mà bất kỳ người chơi nào cũng muốn 1 Items cho chỉ số cao nhất và đẹp nhất.
+* Để làm mới Items cần nguyên liệu Soul Stone (Mua ở Shop D2VN)
+
+
+
+
+
+
+
 ## **NÂNG CẤP**
 
 – Viper Eye Upgrade có thể nâng cấp lên **Rare** và **Perfect**\

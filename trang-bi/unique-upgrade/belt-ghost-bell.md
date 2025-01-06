@@ -10,7 +10,9 @@ Unique Upgrade Info\
 
 <figure><img src="../../.gitbook/assets/image (10).png" alt="" width="350"><figcaption></figcaption></figure>
 
-##
+
+
+
 
 ## **Công thức cube**
 
@@ -32,6 +34,13 @@ Người chơi có thể ép Ghost Belt bằng 1 trong 3 Unique sau\
 – **Magic Orb**: Có thể ghép từ các fragment drop tại Extra Quest Ice Crownd.
 
 
+
+## Reroll Ghost Belt (Hay còn gọi là làm mới Items)
+
+* Chắc chắn là điều mà bất kỳ người chơi nào cũng muốn 1 Items cho chỉ số cao nhất và đẹp nhất.
+* Để làm mới Items cần nguyên liệu Soul Stone (Mua ở Shop D2VN)
+
+<figure><img src="../../.gitbook/assets/ghostbelt.gif" alt=""><figcaption><p>Reroll Ghost Belt</p></figcaption></figure>
 
 
 
