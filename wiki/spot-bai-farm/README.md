@@ -1,2 +1,6 @@
-# 📍 Spot/Bãi farm
+---
+icon: joystick
+---
+
+# Spot/Bãi farm
 

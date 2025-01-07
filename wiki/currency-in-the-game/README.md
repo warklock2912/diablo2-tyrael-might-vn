@@ -1,2 +1,0 @@
-# 🪙 Tiền tệ trong game
-

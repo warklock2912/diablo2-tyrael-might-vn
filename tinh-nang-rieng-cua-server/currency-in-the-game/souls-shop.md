@@ -1,4 +1,8 @@
-# 🏪 Cửa hàng Souls
+---
+icon: shop-lock
+---
+
+# Cửa hàng Souls
 
 ### Hướng dẫn mở Shop D2VN:
 

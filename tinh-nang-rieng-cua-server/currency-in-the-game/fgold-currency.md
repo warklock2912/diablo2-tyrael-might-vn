@@ -1,8 +1,9 @@
 ---
 description: FGold hiện tại đang là 1 trong 2 loại tiền tệ chính hiện nay tại sever D2VN
+icon: bitcoin-sign
 ---
 
-# 💲 Fgold (Tiền tệ)
+# Fgold (Tiền tệ)
 
 **Tác dụng của Fgold trong game:**
 

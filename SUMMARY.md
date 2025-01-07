@@ -1,11 +1,9 @@
 # Table of contents
 
-## About Us
+* [ℹ️ Thông tin máy chủ](README.md)
+* [🤝 Donate/Support Server](donate-support-server.md)
 
-* [👋 Welcome](README.md)
-* [ℹ️ Thông tin máy chủ](about-us/server-information.md)
-  * [Donate](join-d2vn/donate.md)
-* [🟠 Điều khoản cộng đồng](about-us/community-guidelines.md)
+## About Us
 
 ## 🎮 HƯỚNG DẪN NHẬP MÔN <a href="#join-d2vn" id="join-d2vn"></a>
 
@@ -23,6 +21,7 @@
 ## 🦕 Phụ bản đặc biệt
 
 * [Salvation Tower](phu-ban-dac-biet/salvation-tower.md)
+* [Wrath Of The Lich King](phu-ban-dac-biet/wrath-of-the-lich-king.md)
 
 ## ⚔️ Trang bị
 
@@ -35,42 +34,44 @@
   * [Salvation Standard Charm](trang-bi/reward-extra-quest/salvation-standard-charm.md)
   * [Lich King Sword Charm](trang-bi/reward-extra-quest/lich-king-sword-charm.md)
 
+## 🦁 TÍNH NĂNG RIÊNG CỦA SERVER
+
+* [Tính năng Game](tinh-nang-rieng-cua-server/game-features/README.md)
+  * [Thay đổi ngôn ngữ game](tinh-nang-rieng-cua-server/game-features/changing-the-game-language.md)
+  * [Bảo vệ nhân vật](tinh-nang-rieng-cua-server/game-features/character-protection.md)
+  * [Sửa lỗi C0000005](tinh-nang-rieng-cua-server/game-features/fixing-error-c0000005.md)
+* [Nhân vật](tinh-nang-rieng-cua-server/characters/README.md)
+  * [Amazon](tinh-nang-rieng-cua-server/characters/amazon.md)
+  * [Assassin](tinh-nang-rieng-cua-server/characters/assassin.md)
+  * [Paladin](tinh-nang-rieng-cua-server/characters/paladin.md)
+  * [Barbarian](tinh-nang-rieng-cua-server/characters/barbarian.md)
+  * [Druid](tinh-nang-rieng-cua-server/characters/druid.md)
+  * [Necromancer](tinh-nang-rieng-cua-server/characters/necromancer.md)
+  * [Sorceress](tinh-nang-rieng-cua-server/characters/sorceress.md)
+* [Tiền tệ trong game](tinh-nang-rieng-cua-server/currency-in-the-game/README.md)
+  * [Fgold (Tiền tệ)](tinh-nang-rieng-cua-server/currency-in-the-game/fgold-currency.md)
+  * [Blood Souls (Tiền tệ)](tinh-nang-rieng-cua-server/currency-in-the-game/blood-souls-currency.md)
+  * [Cửa hàng FGold](tinh-nang-rieng-cua-server/currency-in-the-game/fgold-shop.md)
+  * [Cửa hàng Souls](tinh-nang-rieng-cua-server/currency-in-the-game/souls-shop.md)
+* [Vật phẩm Roll](tinh-nang-rieng-cua-server/vat-pham-roll/README.md)
+  * [Soul Stone](tinh-nang-rieng-cua-server/vat-pham-roll/soul-stone.md)
+  * [Cooper Quartz](tinh-nang-rieng-cua-server/vat-pham-roll/cooper-quartz.md)
+* [Kênh chợ trời](tinh-nang-rieng-cua-server/kenh-cho-troi.md)
+* [🟠 Điều khoản cộng đồng](tinh-nang-rieng-cua-server/community-guidelines.md)
+
 ## 📚 Game System
 
-* [⚡ Tính năng Game](wiki/game-features/README.md)
-  * [👀 Magic Find là gì ? (MF)](wiki/game-features/what-is-magic-find-mf.md)
-  * [🌎 Thay đổi ngôn ngữ game](wiki/game-features/changing-the-game-language.md)
-  * [Bảo vệ nhân vật](join-d2vn/character-protection.md)
-  * [Sửa lỗi C0000005](join-d2vn/fixing-error-c0000005.md)
-* [🧙‍♂️ Nhân vật](wiki/characters/README.md)
-  * [Amazon](wiki/characters/amazon.md)
-  * [Assassin](wiki/characters/assassin.md)
-  * [Paladin](wiki/characters/paladin.md)
-  * [Barbarian](wiki/characters/barbarian.md)
-  * [Druid](wiki/characters/druid.md)
-  * [Necromancer](wiki/characters/necromancer.md)
-  * [Sorceress](wiki/characters/sorceress.md)
+* [👀 Magic Find là gì ? (MF)](game-system/what-is-magic-find-mf.md)
 * [Runewords (LOD)](game-system/runewords-lod.md)
-* [❔ Nhiệm vụ gốc (LOD)](wiki/original-quests-lod/README.md)
+* [Nhiệm vụ gốc (LOD)](wiki/original-quests-lod/README.md)
   * [Nhiệm vụ cơ bản (LOD)](wiki/original-quests-lod/basic-quests-lod.md)
   * [Cow Level 1 (75+)](wiki/original-quests-lod/cow-level-1-75+.md)
   * [Uber Tristram - Hướng Dẫn Uber Tristram](wiki/original-quests-lod/uber-tristram-hellfire-torch.md)
   * [Diablo Clone - Annhilus](wiki/original-quests-lod/diablo-clone-annhilus.md)
-* [❓ Nhiệm vụ cao cấp](game-system/advanced-quests.md)
-* [🪙 Tiền tệ trong game](wiki/currency-in-the-game/README.md)
-  * [💲 Fgold (Tiền tệ)](wiki/currency-in-the-game/fgold-currency.md)
-  * [🔮 Blood Souls (Tiền tệ)](wiki/currency-in-the-game/blood-souls-currency.md)
-  * [🏪 Cửa hàng FGold](wiki/currency-in-the-game/fgold-shop.md)
-  * [🏪 Cửa hàng Souls](wiki/currency-in-the-game/souls-shop.md)
-* [🎲 Vật phẩm Roll](wiki/vat-pham-roll/README.md)
-  * [Soul Stone](wiki/vat-pham-roll/soul-stone.md)
-  * [Cooper Quartz](wiki/vat-pham-roll/cooper-quartz.md)
-* [📍 Spot/Bãi farm](wiki/spot-bai-farm/README.md)
+* [Spot/Bãi farm](wiki/spot-bai-farm/README.md)
   * [Area85](wiki/spot-bai-farm/area85.md)
   * [Secret Cow Level 1](wiki/spot-bai-farm/secret-cow-level-1.md)
-  * [Secret Cow Level 2](wiki/spot-bai-farm/secret-cow-level-2.md)
-* [⚓ Kênh chợ trời](wiki/kenh-cho-troi.md)
-* [⚔️ Chuyên sâu PVP](wiki/chuyen-sau-pvp/README.md)
+* [Chuyên sâu PVP](wiki/chuyen-sau-pvp/README.md)
   * [C-T TRICK \[ CT \]](wiki/chuyen-sau-pvp/c-t-trick-ct.md)
   * [DESYNCH BUG](wiki/chuyen-sau-pvp/desynch-bug.md)
   * [HAMMERDIN \[SMITE\]](wiki/chuyen-sau-pvp/hammerdin-smite.md)

@@ -1,4 +1,8 @@
-# 🌎 Thay đổi ngôn ngữ game
+---
+icon: globe
+---
+
+# Thay đổi ngôn ngữ game
 
 Với hầu hết anh em thuộc thế hệ 8x hay 9x đời đầu, hình ảnh chiếc máy tính với màn hình lồi hẳn quá quen thuộc với các tựa game như đế chế, cs 1.1.. hay tựa game nhập vai kinh điển Diablo 2. Tính đến nay tựa game Diablo 2 đã được trên 20 năm tuổi nhưng khi chơi lại nó vẫn đem lại nhiều cảm xúc vô cùng đặc biệt với lối chơi không hề nhàm chán cho tất cả anh em. Nếu muốn sống lại một chút tuổi thơ,  cùng tải Diablo 2 về thôi !
 

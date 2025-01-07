@@ -1,8 +1,9 @@
 ---
 description: Soul hiện tại đang là 1 trong 2 loại tiền tệ chính hiện nay tại sever D2VN
+icon: crystal-ball
 ---
 
-# 🔮 Blood Souls (Tiền tệ)
+# Blood Souls (Tiền tệ)
 
 **Tác dụng của nó bao gồm:**
 

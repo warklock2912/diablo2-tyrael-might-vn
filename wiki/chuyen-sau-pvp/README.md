@@ -1,2 +1,6 @@
-# ⚔️ Chuyên sâu PVP
+---
+icon: swords
+---
+
+# Chuyên sâu PVP
 

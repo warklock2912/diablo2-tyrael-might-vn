@@ -1,4 +1,8 @@
-# ⚓ Kênh chợ trời
+---
+icon: store
+---
+
+# Kênh chợ trời
 
 #### Hướng dẫn sử dụng kênh TRADE <a href="#huong-dan-su-dung-kenh-trade" id="huong-dan-su-dung-kenh-trade"></a>
 

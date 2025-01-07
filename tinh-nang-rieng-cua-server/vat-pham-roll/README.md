@@ -1,4 +1,8 @@
-# 🎲 Vật phẩm Roll
+---
+icon: dice-five
+---
+
+# Vật phẩm Roll
 
 ## Soul Stone
 
