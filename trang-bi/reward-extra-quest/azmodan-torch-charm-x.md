@@ -1,2 +1,0 @@
-# Azmodan Torch Charm\[x]
-
