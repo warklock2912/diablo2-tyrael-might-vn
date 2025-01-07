@@ -18,8 +18,8 @@ Salvation là một phụ bản mở rộng của D2VN nhằm tạo cho người
 
 ## Phần thưởng khi vượt ải
 
-{% content-ref url="../trang-bi/reward-extra-quest/salvation-standard-charm.md" %}
-[salvation-standard-charm.md](../trang-bi/reward-extra-quest/salvation-standard-charm.md)
+{% content-ref url="../trang-bi/reward-extra-quest/charm-salvation-standard.md" %}
+[charm-salvation-standard.md](../trang-bi/reward-extra-quest/charm-salvation-standard.md)
 {% endcontent-ref %}
 
 ***

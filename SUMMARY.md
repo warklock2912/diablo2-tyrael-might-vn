@@ -29,8 +29,13 @@
   * [AMULET VIPER EYE](trang-bi/unique-upgrade/amulet-viper-eye.md)
   * [RING DEVIL'S EYE](trang-bi/unique-upgrade/ring-devils-eye.md)
 * [Reward Extra Quest](wiki/reward-extra-quest/README.md)
-  * [Salvation Standard Charm](trang-bi/reward-extra-quest/salvation-standard-charm.md)
+  * [Charm Salvation Standard](trang-bi/reward-extra-quest/charm-salvation-standard.md)
   * [Lich King Sword Charm](trang-bi/reward-extra-quest/lich-king-sword-charm.md)
+  * [Azmodan Torch Charm\[x\]](trang-bi/reward-extra-quest/azmodan-torch-charm-x.md)
+  * [Devil Annihilus Charm\[x\]](trang-bi/reward-extra-quest/devil-annihilus-charm-x.md)
+* [Wing Charm\[x\]](trang-bi/wing-charm-x.md)
+* [Aura Charm\[x\]](trang-bi/aura-charm-x.md)
+* [Implict trang bị\[x\]](trang-bi/implict-trang-bi-x.md)
 
 ## 🦁 TÍNH NĂNG RIÊNG CỦA SERVER
 
