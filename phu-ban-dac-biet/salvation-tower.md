@@ -41,6 +41,7 @@ Salvation là một phụ bản mở rộng của D2VN nhằm tạo cho người
   * **Transcendent**: 2.000.000
 {% endhint %}
 
+{% hint style="info" %}
 ### Vé vào cổng Normal&#x20;
 
 * Vé vào cổng Normal drop tại [Baal Hell (Nhiệm vụ ACT V)](../wiki/original-quests-lod/) - Quest 6 : Eve of Destruction.
@@ -60,6 +61,7 @@ Salvation là một phụ bản mở rộng của D2VN nhằm tạo cho người
 
 * Vé vào cổng Transcendent drop tại Boss Salvation God.
 * Tỉ lệ drop khoảng 30%.
+{% endhint %}
 
 
 
