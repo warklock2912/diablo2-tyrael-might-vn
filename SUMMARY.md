@@ -20,6 +20,10 @@
 * [Hướng Dẫn: Cách Farm EXP và Item \[X\]](join-d2vn/huong-dan-cach-farm-exp-va-item-x/README.md)
   * [🔯 Hướng dẫn Farm Rune dành cho Newbie](join-d2vn/huong-dan-cach-farm-exp-va-item-x/huong-dan-farm-rune-danh-cho-newbie.md)
 
+## 🦕 Phụ bản đặc biệt
+
+* [Salvation Tower](phu-ban-dac-biet/salvation-tower.md)
+
 ## ⚔️ Trang bị
 
 * [Unique Upgrade](trang-bi/unique-upgrade/README.md)
@@ -28,11 +32,8 @@
   * [AMULET VIPER EYE](trang-bi/unique-upgrade/amulet-viper-eye.md)
   * [RING DEVIL'S EYE](trang-bi/unique-upgrade/ring-devils-eye.md)
 * [Reward Extra Quest](wiki/reward-extra-quest/README.md)
-  * [Salvation Standard Charm](trang-bi/reward-extra-quest/salvation-standard-charm/README.md)
-    * [Cường hoá](trang-bi/reward-extra-quest/salvation-standard-charm/cuong-hoa.md)
-    * [Roll chỉ số](trang-bi/reward-extra-quest/salvation-standard-charm/roll-chi-so.md)
+  * [Salvation Standard Charm](trang-bi/reward-extra-quest/salvation-standard-charm.md)
   * [Lich King Sword Charm](trang-bi/reward-extra-quest/lich-king-sword-charm.md)
-* [Runewords (LOD)](wiki/runewords-lod.md)
 
 ## 📚 Game System
 
@@ -49,13 +50,13 @@
   * [Druid](wiki/characters/druid.md)
   * [Necromancer](wiki/characters/necromancer.md)
   * [Sorceress](wiki/characters/sorceress.md)
+* [Runewords (LOD)](game-system/runewords-lod.md)
 * [❔ Nhiệm vụ gốc (LOD)](wiki/original-quests-lod/README.md)
   * [Nhiệm vụ cơ bản (LOD)](wiki/original-quests-lod/basic-quests-lod.md)
   * [Cow Level 1 (75+)](wiki/original-quests-lod/cow-level-1-75+.md)
   * [Uber Tristram - Hướng Dẫn Uber Tristram](wiki/original-quests-lod/uber-tristram-hellfire-torch.md)
   * [Diablo Clone - Annhilus](wiki/original-quests-lod/diablo-clone-annhilus.md)
-* [❓ Nhiệm vụ cao cấp](wiki/advanced-quests/README.md)
-  * [Salvation Tower](wiki/advanced-quests/salvation-tower.md)
+* [❓ Nhiệm vụ cao cấp](game-system/advanced-quests.md)
 * [🪙 Tiền tệ trong game](wiki/currency-in-the-game/README.md)
   * [💲 Fgold (Tiền tệ)](wiki/currency-in-the-game/fgold-currency.md)
   * [🔮 Blood Souls (Tiền tệ)](wiki/currency-in-the-game/blood-souls-currency.md)
