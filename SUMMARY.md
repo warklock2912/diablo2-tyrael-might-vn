@@ -16,7 +16,7 @@
 * [Hướng Dẫn: Cách Farm EXP và Item \[X\]](join-d2vn/huong-dan-cach-farm-exp-va-item-x/README.md)
   * [🔯 Hướng dẫn Farm Rune dành cho Newbie](join-d2vn/huong-dan-cach-farm-exp-va-item-x/huong-dan-farm-rune-danh-cho-newbie.md)
 
-## 🦕 Phụ bản đặc biệt
+## 🟥 Phụ bản đặc biệt
 
 * [Salvation Tower](phu-ban-dac-biet/salvation-tower.md)
 * [Wrath Of The Lich King](phu-ban-dac-biet/wrath-of-the-lich-king.md)
@@ -62,7 +62,7 @@
   * [Soul Stone](wiki/vat-pham-roll/soul-stone.md)
   * [Cooper Quartz](wiki/vat-pham-roll/cooper-quartz.md)
 * [Kênh chợ trời](wiki/kenh-cho-troi.md)
-* [🟠 Điều khoản cộng đồng](about-us/community-guidelines.md)
+* [Điều khoản cộng đồng](about-us/community-guidelines.md)
 
 ## 📚 Game System
 

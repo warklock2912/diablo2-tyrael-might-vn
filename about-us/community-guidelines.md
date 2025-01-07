@@ -1,4 +1,8 @@
-# 🟠 Điều khoản cộng đồng
+---
+icon: bowling-ball
+---
+
+# Điều khoản cộng đồng
 
 ## QUY ĐỊNH
 
