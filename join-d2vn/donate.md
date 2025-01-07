@@ -1,8 +1,4 @@
----
-icon: lightbulb-exclamation
----
-
-# Donate
+# 🤝 Donate/Support Server
 
 Hướng dẫn Donate:
 
