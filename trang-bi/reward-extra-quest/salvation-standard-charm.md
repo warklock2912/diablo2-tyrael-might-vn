@@ -110,9 +110,9 @@ Có thể được **cường hoá** để gia  sức mạnh vượt trội theo
 | 6         | Ohm    |             | 65               |
 | 7         | Ohm    | Normal Soul | 60               |
 | 8         | Ohm    | Normal Soul | 55               |
-| 9         | Worry  | Normal Soul | 50               |
-| 10        | Worry  | Magic Soul  | 45               |
-| 11        | Worry  | Magic Soul  | 40               |
+| 9         | Lo     | Normal Soul | 50               |
+| 10        | Lo     | Magic Soul  | 45               |
+| 11        | Lo     | Magic Soul  | 40               |
 | 12        | Lo x 2 | Magic Soul  | 35               |
 | 13        | Lo x 2 | Rare Soul   | 35               |
 | 14        | Lo x 2 | Rare Soul   | 35               |
