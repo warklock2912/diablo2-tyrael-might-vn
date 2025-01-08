@@ -63,7 +63,7 @@ Bạn có thể roll chỉ số của Lich King Sword Charm thông qua Copper Qu
 <figure><img src="../../.gitbook/assets/image (129).png" alt="" width="446"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
-Require Level: 130
+Require Level: 130 (Level Yêu Cầu)
 {% endhint %}
 
 ### Chỉ số
