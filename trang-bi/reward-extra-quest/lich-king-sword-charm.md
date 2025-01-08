@@ -10,7 +10,7 @@ Lich King Sword Charm là phần thưởng quý giá nhận được từ nhiệ
 
 
 
-<figure><img src="../../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Require Level: 120

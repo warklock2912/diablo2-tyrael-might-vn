@@ -11,7 +11,7 @@ Link Donate Credit Card
 
 * Hoặc làm các bước như hình:
 
-<figure><img src="../.gitbook/assets/image (6) (1) (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (6) (1) (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="warning" %}
 Tên tài khoản đăng nhập game thôi nhé, không phải tên nhân vật. Ví dụ tài khoản là **s12 hongsochet**  thì ghi phần nội dung là **s12 hongsochet** thôi nhé.
