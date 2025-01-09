@@ -1,16 +1,12 @@
 # Lich King Sword Charm
 
-{% hint style="warning" %}
 Lich King Sword Charm là phần thưởng quý giá nhận được từ nhiệm vụ Wrath Of The Lich King. Người chơi có thể nâng cấp nó lên các cấp độ cao hơn như Lich King Sword Charm Hard, God, hoặc Transcendent. Để thực hiện điều này, hãy sử dụng các cuộn giấy (scroll) đặc biệt khi đánh bại boss Lich King trong các chế độ khác nhau trong phụ bản.
-{% endhint %}
 
 
 
 ## Lich King Sword Charm
 
-
-
-<figure><img src="../../.gitbook/assets/image (6).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (141).png" alt=""><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Require Level: 120
@@ -20,11 +16,9 @@ Lich King Sword Charm có thể drop trực tiếp từ Boss Lich King tại Map
 
 ### Roll chỉ số
 
-Bạn có thể roll chỉ số của Lich King Sword Charm thông qua Copper Quartz (Mua tại Shop D2VN).
+Bạn có thể roll chỉ số của Lich King Sword Charm thông qua Soul Stone (Mua tại Shop D2VN).
 
-<figure><img src="../../.gitbook/assets/Screen Recording 2025-01-06 at 21.00.29.gif" alt=""><figcaption></figcaption></figure>
-
-
+<figure><img src="../../.gitbook/assets/lk.gif" alt=""><figcaption></figcaption></figure>
 
 ### Cường hoá
 
@@ -54,9 +48,16 @@ Bạn có thể roll chỉ số của Lich King Sword Charm thông qua Copper Qu
 | 17               | Cham  | Unique Soul | 35               |
 | 18               | Cham  | Unique Soul | 35               |
 
-<figure><img src="../../.gitbook/assets/Screen Recording 2025-01-06 at 23.32.45.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-01-09 19-27-08.gif" alt=""><figcaption></figcaption></figure>
 
 ***
+
+## Bảo hộ chống tụt cấp
+
+<figure><img src="../../.gitbook/assets/2025-01-09 19-27-08 (1).gif" alt=""><figcaption></figcaption></figure>
+
+* Hãy đem **Cropper Orb** để bảo hộ không bị tụt cấp khi thất bại.
+* **Cropper Orb** được mua ở Shop D2VN.
 
 ## Lich King Sword Orb Hard
 
