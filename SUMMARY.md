@@ -20,7 +20,7 @@
 
 * [Salvation Tower](phu-ban-dac-biet/salvation-tower.md)
 * [Wrath Of The Lich King](phu-ban-dac-biet/wrath-of-the-lich-king.md)
-* [Realm of Sin \[H\]](phu-ban-dac-biet/realm-of-sin-h.md)
+* [Realm of Sin](phu-ban-dac-biet/realm-of-sin.md)
 * [Devil Diablo \[H\]](phu-ban-dac-biet/devil-diablo-h.md)
 
 ## ⚔️ Trang bị
