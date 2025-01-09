@@ -13,7 +13,7 @@
 {% hint style="info" %}
 1 x [Sanctuary Wing](level-1-sanctuary-wing.md) (Cường hoá 5)
 
-6 x Primeval Broken (Mua trong Shop D2VN hoặc farm ở Boss [Realm of Sin](../../phu-ban-dac-biet/realm-of-sin-azmodan.md))
+6 x Primeval Broken (Mua trong Shop D2VN hoặc farm ở Boss [Realm of Sin](../../phu-ban-dac-biet/realm-of-sin.md))
 
 1 x Magic Orb (Mua trong Shop D2VN hoặc farm ở [Wrath Of The Lich King](https://d2vns-organization.gitbook.io/tm/phu-ban-dac-biet/wrath-of-the-lich-king))
 

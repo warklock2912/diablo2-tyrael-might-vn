@@ -1,8 +1,8 @@
 ---
-icon: book
 description: >-
   Lưu ý: Khi bạn sở hữu Orb của Charm khi đánh quái sẽ xuất hiện Skills Upgrade
   của Boss
+icon: book
 ---
 
 # Hell's Abyss - Devil Diablo

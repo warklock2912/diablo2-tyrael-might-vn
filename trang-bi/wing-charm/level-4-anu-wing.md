@@ -13,7 +13,7 @@
 {% hint style="info" %}
 1 x High Heaven Wing (Cường hoá +15)
 
-6 x Eye of Anu (Mua trong Shop D2VN hoặc farm ở Boss [Devil Diablo](../../phu-ban-dac-biet/hells-abyss-devil-diablo.md))
+6 x Eye of Anu (Mua trong Shop D2VN hoặc farm ở Boss [Devil Diablo](../../phu-ban-dac-biet/devil-diablo-h.md))
 
 1 x Chaos Orb (Farm ở [Wrath Of The Lich King](https://d2vns-organization.gitbook.io/tm/phu-ban-dac-biet/wrath-of-the-lich-king))
 

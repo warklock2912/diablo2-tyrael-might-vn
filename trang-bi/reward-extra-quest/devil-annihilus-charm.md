@@ -59,7 +59,7 @@ Bạn có thể roll chỉ số của Devil Annihilus Charm thông qua Soul Ston
 
 ***
 
-## Bảo hộ chống tụt cấp
+### Bảo hộ chống tụt cấp
 
 <figure><img src="../../.gitbook/assets/2025-01-09 20-10-52.gif" alt=""><figcaption><p>Nâng Cấp Items có bảo hộ</p></figcaption></figure>
 
@@ -224,8 +224,6 @@ Sử dụng Soul Stone để làm bảo hộ Item (Không bảo hộ nguyên li�
 
 * Để hợp nhất cần phải đục lỗ Devil Annihilus Charm
 * Đục lỗ Devil Annihilus Charm = Click chuột phải Jeweller Devil Annihilus Charm (Được mua tại Shop Soul với giá 12.000 Soul)
-
-
 
 <figure><img src="../../.gitbook/assets/2025-01-09 20-24-29.gif" alt=""><figcaption><p>Đục Lỗ Items</p></figcaption></figure>
 

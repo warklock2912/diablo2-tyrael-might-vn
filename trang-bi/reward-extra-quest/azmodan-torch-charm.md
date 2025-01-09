@@ -6,6 +6,8 @@ description: 'Extra Quest: Azmodan - Realm Of Sin'
 
 Azmodan Torch Charm là phần thưởng quý giá nhận được từ nhiệm vụ Azmodan - Realm Of Sin. Người chơi có thể nâng cấp nó lên các cấp độ cao hơn như Azmodan Torch Charm Hard, God, hoặc Transcendent. Để thực hiện điều này, hãy sử dụng các cuộn giấy (scroll) đặc biệt khi đánh bại boss Azmodan trong các chế độ khác nhau trong phụ bản.
 
+***
+
 ## Azmodan Torch Charm
 
 <figure><img src="../../.gitbook/assets/image (132).png" alt=""><figcaption><p>Azmodan Torch</p></figcaption></figure>
@@ -15,6 +17,8 @@ Require Level: 130
 
 Azmodan Torch Charm có thể drop trực tiếp từ Boss Azmodan tại Map Realm Of Sin.
 {% endhint %}
+
+***
 
 ### Roll chỉ số
 
@@ -61,8 +65,6 @@ Bạn có thể roll chỉ số của Azmodan Torch Charm thông qua Soul Stone(
 * **Cropper Orb** được mua ở Shop D2VN.
 
 ***
-
-
 
 {% hint style="info" %}
 Lưu ý: Khi bạn sở hữu Orb của Charm khi đánh quái sẽ xuất hiện Skills Upgrade của Boss
