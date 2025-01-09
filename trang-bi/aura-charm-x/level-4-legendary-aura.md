@@ -1,4 +1,4 @@
-# Level 4
+# Level 4 Legendary Aura
 
 <figure><img src="../../.gitbook/assets/Thiết kế chưa có tên.gif" alt="" width="300"><figcaption></figcaption></figure>
 

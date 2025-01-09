@@ -41,10 +41,10 @@
   * [Level 3 High Heaven Wing](trang-bi/wing-charm/level-3-high-heaven-wing.md)
   * [Level 4 Anu Wing](trang-bi/wing-charm/level-4-anu-wing.md)
 * [Aura Charm\[x\]](trang-bi/aura-charm-x/README.md)
-  * [Level 1](trang-bi/aura-charm-x/level-1.md)
-  * [Level 2](trang-bi/aura-charm-x/level-2.md)
-  * [Level 3](trang-bi/aura-charm-x/level-3.md)
-  * [Level 4](trang-bi/aura-charm-x/level-4.md)
+  * [Level 1 Minor Aura](trang-bi/aura-charm-x/level-1-minor-aura.md)
+  * [Level 2 Empowered Aura](trang-bi/aura-charm-x/level-2-empowered-aura.md)
+  * [Level 3 Majestic Aura](trang-bi/aura-charm-x/level-3-majestic-aura.md)
+  * [Level 4 Legendary Aura](trang-bi/aura-charm-x/level-4-legendary-aura.md)
 * [Implict trang bị\[x\]](trang-bi/implict-trang-bi-x.md)
 
 ## 🦁 TÍNH NĂNG RIÊNG CỦA SERVER
