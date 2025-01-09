@@ -3,7 +3,7 @@
 Hướng dẫn Donate:
 
 * Các bạn có thể chọn đường link sau để [**Donate**](https://diablo2-vn.com/tm/donate/)
-* DONATE BUY CREDIT CARD : Tỉ lệ chuyển đổi: 1$ = 22.500 FGOLD
+* DONATE BUY CREDIT CARD : Tỉ lệ chuyển đổi: 1$ = 25.000 FGOLD
 
 {% embed url="https://www.buymeacoffee.com/ddgnetwork" %}
 Link Donate Credit Card
@@ -18,8 +18,7 @@ Tên tài khoản đăng nhập game thôi nhé, không phải tên nhân vật.
 
 Lưu ý : Chơi Server nào thì Donate ở Server đấy, dưới đây là ví dụ :
 
-* S20 TÊNTK với máy chủ SALVATION
-* S21 TÊNTK với máy chủ Mới
+* S22 TÊNTK với máy chủ Matheal
 
 Tên TK là tên đăng nhập trong game của bạn.
 {% endhint %}
@@ -43,7 +42,7 @@ Và để cảm ơn các bạn ủng hộ cho server, BQT cũng sẽ có những
 Như vậy là anh em đã hoàn thành xong việc tạo lấy 1 con tài khoản game rồi. Sau đây có 1 vài lưu ý nhỏ cho anh em:
 
 {% hint style="info" %}
-Khi anh em tạo nhân vật mới sẽ được tặng [CHEST NEWBIE](https://diablo2-vn.com/tm/vat-pham/chest-newbie-va-nhung-dieu-can-luu-y/) ngay khi vô game thay vì phải mua nhé, để mở CHEST anh em lưu ý để túi đồ của mình trống mới mở được nha. Video khởi đầu với CHEST ITEM cho anh em [tham khảo](https://www.youtube.com/playlist?list=PL6cS6t9UKFmXKR71uJ0sre1bF1-75KdUY)
+Khi anh em tạo nhân vật mới sẽ được tặng [CHEST NEWBIE ngay khi làm event](code-cho-nguoi-choi-moi/code-1-like-comment-tag-3-nguoi-ban.md) thay vì phải mua nhé, để mở CHEST anh em lưu ý để túi đồ của mình trống mới mở được nha. Video khởi đầu với CHEST ITEM cho anh em [tham khảo](https://www.youtube.com/playlist?list=PL6cS6t9UKFmXKR71uJ0sre1bF1-75KdUY)
 
 * Tất nhiên là nó chỉ áp dụng khi đã mở Server được 3 tháng, còn đối với Server mới thì điều này không áp dụng lên
 {% endhint %}

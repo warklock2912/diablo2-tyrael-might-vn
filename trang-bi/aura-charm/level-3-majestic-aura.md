@@ -11,7 +11,7 @@
 ## Công thức cube <a href="#cong-thuc-cube" id="cong-thuc-cube"></a>
 
 {% hint style="info" %}
-1 x [Empowered Aura](level-2.md) (Cường hoá +10)
+1 x [Empowered Aura](level-2-empowered-aura.md) (Cường hoá +10)
 
 6 x Majestic Broken (Mua trong Shop D2VN hoặc farm ở Boss [Realm of Sin](../../phu-ban-dac-biet/realm-of-sin.md))
 

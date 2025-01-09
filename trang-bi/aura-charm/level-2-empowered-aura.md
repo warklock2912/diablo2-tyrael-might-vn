@@ -15,7 +15,7 @@ description: Primeval Wing
 ## Công thức cube <a href="#cong-thuc-cube" id="cong-thuc-cube"></a>
 
 {% hint style="info" %}
-1 x [Minor Aura](level-1.md) (Cường hoá 5)
+1 x [Minor Aura](level-1-minor-aura.md) (Cường hoá 5)
 
 6 x Empowered Broken (Mua trong Shop D2VN hoặc farm ở Boss [Realm of Sin](../../phu-ban-dac-biet/realm-of-sin.md))
 

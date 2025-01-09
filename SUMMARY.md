@@ -5,7 +5,8 @@
 
 ## 🎮 HƯỚNG DẪN NHẬP MÔN <a href="#join-d2vn" id="join-d2vn"></a>
 
-* [Làm thế nào để cài game](join-d2vn/installation.md)
+* [Làm thế nào để cài game](join-d2vn/installation/README.md)
+  * [Sửa lỗi C0000005](join-d2vn/installation/fixing-error-c0000005.md)
 * [Đăng ký tài khoản](join-d2vn/first-time-joining-the-game.md)
 * [Tham gia InGame](join-d2vn/tham-gia-ingame.md)
 * [Các chỉ số của nhân vật](join-d2vn/cac-chi-so-cua-nhan-vat.md)
@@ -40,19 +41,19 @@
   * [Level 2 Primeval Wing](trang-bi/wing-charm/level-2-primeval-wing.md)
   * [Level 3 High Heaven Wing](trang-bi/wing-charm/level-3-high-heaven-wing.md)
   * [Level 4 Anu Wing](trang-bi/wing-charm/level-4-anu-wing.md)
-* [Aura Charm\[x\]](trang-bi/aura-charm-x/README.md)
-  * [Level 1 Minor Aura](trang-bi/aura-charm-x/level-1.md)
-  * [Level 2 Empowered Aura](trang-bi/aura-charm-x/level-2.md)
-  * [Level 3 Majestic Aura](trang-bi/aura-charm-x/level-3-majestic-aura.md)
-  * [Level 4 Legendary Aura](trang-bi/aura-charm-x/level-4-legendary-aura.md)
-* [Implict trang bị\[x\]](trang-bi/implict-trang-bi-x.md)
+* [Aura Charm](trang-bi/aura-charm/README.md)
+  * [Level 1 Minor Aura](trang-bi/aura-charm/level-1-minor-aura.md)
+  * [Level 2 Empowered Aura](trang-bi/aura-charm/level-2-empowered-aura.md)
+  * [Level 3 Majestic Aura](trang-bi/aura-charm/level-3-majestic-aura.md)
+  * [Level 4 Legendary Aura](trang-bi/aura-charm/level-4-legendary-aura.md)
+* [Implict trang bị \[x\]](trang-bi/implict.md)
+* [Pet Charm \[x\]](trang-bi/pet-charm-x.md)
 
 ## 🦁 TÍNH NĂNG RIÊNG CỦA SERVER
 
 * [Tính năng Game](wiki/game-features/README.md)
   * [Thay đổi ngôn ngữ game](wiki/game-features/changing-the-game-language.md)
   * [Bảo vệ nhân vật](join-d2vn/character-protection.md)
-  * [Sửa lỗi C0000005](join-d2vn/fixing-error-c0000005.md)
 * [Nhân vật](wiki/characters/README.md)
   * [Amazon](wiki/characters/amazon.md)
   * [Assassin](wiki/characters/assassin.md)
