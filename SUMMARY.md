@@ -34,7 +34,7 @@
   * [Charm Salvation Standard](trang-bi/reward-extra-quest/salvation-standard-charm.md)
   * [Lich King Sword Charm](trang-bi/reward-extra-quest/lich-king-sword-charm.md)
   * [Azmodan Torch Charm\[H\]](trang-bi/reward-extra-quest/azmodan-torch-charm-h.md)
-  * [Devil Annihilus Charm\[H\]](trang-bi/reward-extra-quest/devil-annihilus-charm-h.md)
+  * [Devil Annihilus Charm](trang-bi/reward-extra-quest/devil-annihilus-charm.md)
 * [Wing Charm](trang-bi/wing-charm/README.md)
   * [Level 1 Sanctuary Wing](trang-bi/wing-charm/level-1-sanctuary-wing.md)
   * [Level 2 Primeval Wing](trang-bi/wing-charm/level-2-primeval-wing.md)

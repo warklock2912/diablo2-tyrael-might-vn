@@ -18,8 +18,8 @@ Không giống như nhiệm vụ Battle.net hay các server khác, sự kiện P
 
 ## Phần thưởng khi vượt ải:
 
-{% content-ref url="../trang-bi/reward-extra-quest/devil-annihilus-charm-h.md" %}
-[devil-annihilus-charm-h.md](../trang-bi/reward-extra-quest/devil-annihilus-charm-h.md)
+{% content-ref url="../trang-bi/reward-extra-quest/devil-annihilus-charm.md" %}
+[devil-annihilus-charm.md](../trang-bi/reward-extra-quest/devil-annihilus-charm.md)
 {% endcontent-ref %}
 
 ***

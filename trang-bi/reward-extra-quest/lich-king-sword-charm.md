@@ -130,7 +130,7 @@ Require Level: 140
 \+ 2 Level D2VN Skills (Ice Dragon Fly)
 {% endhint %}
 
-Khi roll cũng sẽ random các chỉ số trên.
+* Khi roll cũng sẽ random các chỉ số trên.
 
 
 
