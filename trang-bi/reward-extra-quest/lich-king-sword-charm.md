@@ -2,7 +2,7 @@
 
 Lich King Sword Charm là phần thưởng quý giá nhận được từ nhiệm vụ Wrath Of The Lich King. Người chơi có thể nâng cấp nó lên các cấp độ cao hơn như Lich King Sword Charm Hard, God, hoặc Transcendent. Để thực hiện điều này, hãy sử dụng các cuộn giấy (scroll) đặc biệt khi đánh bại boss Lich King trong các chế độ khác nhau trong phụ bản.
 
-
+***
 
 ## Lich King Sword Charm
 
@@ -14,11 +14,15 @@ Require Level: 120
 Lich King Sword Charm có thể drop trực tiếp từ Boss Lich King tại Map Ice Crown.
 {% endhint %}
 
+***
+
 ### Roll chỉ số
 
 Bạn có thể roll chỉ số của Lich King Sword Charm thông qua Soul Stone (Mua tại Shop D2VN).
 
 <figure><img src="../../.gitbook/assets/lk.gif" alt=""><figcaption></figcaption></figure>
+
+***
 
 ### Cường hoá
 
@@ -52,12 +56,14 @@ Bạn có thể roll chỉ số của Lich King Sword Charm thông qua Soul Ston
 
 ***
 
-## Bảo hộ chống tụt cấp
+### Bảo hộ chống tụt cấp
 
 <figure><img src="../../.gitbook/assets/2025-01-09 19-27-08 (1).gif" alt=""><figcaption></figcaption></figure>
 
 * Hãy đem **Cropper Orb** để bảo hộ không bị tụt cấp khi thất bại.
 * **Cropper Orb** được mua ở Shop D2VN.
+
+***
 
 ## Lich King Sword Orb Hard
 
@@ -79,11 +85,9 @@ Require Level: 130 (Level Yêu Cầu)
 \+ 5 - 10 All Resistant
 
 \+ 1 Level D2VN Skills (Ice Dragon Fly)
+
+* Khi roll cũng sẽ random các chỉ số trên.
 {% endhint %}
-
-Khi roll cũng sẽ random các chỉ số trên.
-
-
 
 ### Công thức Cube
 
@@ -129,11 +133,9 @@ Require Level: 140
 \+ 5 - 10 All Resistant
 
 \+ 2 Level D2VN Skills (Ice Dragon Fly)
-{% endhint %}
 
 * Khi roll cũng sẽ random các chỉ số trên.
-
-
+{% endhint %}
 
 ### Công thức Cube
 
@@ -179,11 +181,9 @@ Require Level: 150
 \+ 10 - 20 All Resistant
 
 \+ 3 Level D2VN Skills (Ice Dragon Fly)
+
+* Khi roll cũng sẽ random các chỉ số trên.
 {% endhint %}
-
-Khi roll cũng sẽ random các chỉ số trên.
-
-
 
 ### Công thức Cube
 
@@ -203,12 +203,14 @@ Tỉ lệ thành công là 30%
 Sử dụng Soul Stone để làm bảo hộ Item (Không bảo hộ nguyên liệu)
 {% endhint %}
 
-
+***
 
 ## Hợp nhất Lich King Orb
 
-* Để hợp nhất cần phải đục lỗ Azmodan Torch Charm
+* Để hợp nhất cần phải đục lỗ Lich King Sword Charm
 
+<figure><img src="../../.gitbook/assets/2025-01-09 19-56-17.gif" alt=""><figcaption></figcaption></figure>
 
+* Đục lỗ Azmodan Torch = Click chuột phải Jeweller Lich King Sword (Được mua tại Shop Soul với giá 10.000 Soul)
 
-* Đục lỗ Azmodan Torch = Click chuột phải Jeweller Azmodan Torch (Được mua tại Shop Soul với giá 12.000 Soul)
+<figure><img src="../../.gitbook/assets/2025-01-09 19-56-41.gif" alt=""><figcaption></figcaption></figure>
