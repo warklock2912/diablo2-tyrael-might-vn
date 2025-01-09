@@ -32,7 +32,7 @@
   * [AMULET VIPER EYE](trang-bi/unique-upgrade/amulet-viper-eye.md)
   * [RING DEVIL'S EYE](trang-bi/unique-upgrade/ring-devils-eye.md)
 * [Reward Extra Quest](wiki/reward-extra-quest/README.md)
-  * [Charm Salvation Standard](trang-bi/reward-extra-quest/salvation-standard-charm.md)
+  * [Salvation Standard Charm](trang-bi/reward-extra-quest/salvation-standard-charm.md)
   * [Lich King Sword Charm](trang-bi/reward-extra-quest/lich-king-sword-charm.md)
   * [Azmodan Torch Charm](trang-bi/reward-extra-quest/azmodan-torch-charm.md)
   * [Devil Annihilus Charm](trang-bi/reward-extra-quest/devil-annihilus-charm.md)
