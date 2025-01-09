@@ -16,8 +16,8 @@ Tiếp nối cho Chaos Uber (hay còn gọi là Uber Tristram) nơi để chứn
 
 ## Phần thưởng khi vượt ải:
 
-{% content-ref url="../trang-bi/reward-extra-quest/azmodan-torch-charm-h.md" %}
-[azmodan-torch-charm-h.md](../trang-bi/reward-extra-quest/azmodan-torch-charm-h.md)
+{% content-ref url="../trang-bi/reward-extra-quest/azmodan-torch-charm.md" %}
+[azmodan-torch-charm.md](../trang-bi/reward-extra-quest/azmodan-torch-charm.md)
 {% endcontent-ref %}
 
 ***

@@ -12,7 +12,7 @@ Salvation Standard Charm có thể Reroll chỉ số từ Soul Stone.
 
 ## **Salvation Standard Charm Normal**
 
-<figure><img src="../../.gitbook/assets/image (1) (1).png" alt="" width="456"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="456"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 Standard Charm Normal drop trực tiếp từ [Boss Salvation.](../../phu-ban-dac-biet/salvation-tower.md)&#x20;
@@ -24,7 +24,7 @@ Standard Charm Normal drop trực tiếp từ [Boss Salvation.](../../phu-ban-da
 
 ## **Salvation Standard Charm Hard**
 
-<figure><img src="../../.gitbook/assets/image (1) (1) (1).png" alt="" width="456"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1) (1) (1) (1).png" alt="" width="456"><figcaption></figcaption></figure>
 
 {% hint style="info" %}
 **Standard Charm Hard** phải ép lên từ Standard Charm Normal (+ Cường hoá 9).\

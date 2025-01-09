@@ -2,7 +2,7 @@
 
 ## Sanctuary Wing
 
-<figure><img src="../../.gitbook/assets/image.png" alt="" width="329"><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/image (1).png" alt="" width="329"><figcaption></figcaption></figure>
 
 ***
 

@@ -27,6 +27,8 @@ Bạn có thể roll chỉ số của Lich King Sword Charm thông qua Soul Ston
 * Mỗi cấp cường hoá sẽ cộng thêm 1% All Skill Damage cùng với khả năng có thể ép Lich King Orb.
 * Hãy đem **Cropper Orb** để bảo hộ không bị tụt cấp khi thất bại.
 
+<figure><img src="../../.gitbook/assets/2025-01-09 19-26-58.gif" alt=""><figcaption></figcaption></figure>
+
 | Cấp độ cường hoá | Runes | Soul        | Tỉ lệ thành công |
 | ---------------- | ----- | ----------- | ---------------- |
 | 1                | Ohm   |             | 100              |
@@ -47,8 +49,6 @@ Bạn có thể roll chỉ số của Lich King Sword Charm thông qua Soul Ston
 | 16               | Cham  | Unique Soul | 35               |
 | 17               | Cham  | Unique Soul | 35               |
 | 18               | Cham  | Unique Soul | 35               |
-
-<figure><img src="../../.gitbook/assets/2025-01-09 19-27-08.gif" alt=""><figcaption></figcaption></figure>
 
 ***
 
@@ -207,3 +207,8 @@ Sử dụng Soul Stone để làm bảo hộ Item (Không bảo hộ nguyên li�
 
 ## Hợp nhất Lich King Orb
 
+* Để hợp nhất cần phải đục lỗ Azmodan Torch Charm
+
+
+
+* Đục lỗ Azmodan Torch = Click chuột phải Jeweller Azmodan Torch (Được mua tại Shop Soul với giá 12.000 Soul)
