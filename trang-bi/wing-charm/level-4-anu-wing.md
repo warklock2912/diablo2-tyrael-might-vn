@@ -8,7 +8,7 @@
 
 ***
 
-### Công thức cube <a href="#cong-thuc-cube" id="cong-thuc-cube"></a>
+## Công thức cube <a href="#cong-thuc-cube" id="cong-thuc-cube"></a>
 
 {% hint style="info" %}
 1 x High Heaven Wing (Cường hoá +15)
@@ -24,7 +24,7 @@
 
 ***
 
-### Cường hoá <a href="#cuong-hoa" id="cuong-hoa"></a>
+## Cường hoá <a href="#cuong-hoa" id="cuong-hoa"></a>
 
 {% hint style="warning" %}
 Mỗi cấp độ cường hoá sẽ cộng thêm chỉ số (+1% Elem, Physic, Magic Damage).
@@ -61,7 +61,7 @@ Khi cube cùng Soul Stone sẽ bảo toàn được cấp độ.
 
 ***
 
-### Hình ảnh trong game <a href="#hinh-anh-trong-game" id="hinh-anh-trong-game"></a>
+## Hình ảnh trong game <a href="#hinh-anh-trong-game" id="hinh-anh-trong-game"></a>
 
 
 
