@@ -43,6 +43,8 @@
 * [Aura Charm\[x\]](trang-bi/aura-charm-x/README.md)
   * [Level 1](trang-bi/aura-charm-x/level-1.md)
   * [Level 2](trang-bi/aura-charm-x/level-2.md)
+  * [Level 3](trang-bi/aura-charm-x/level-3.md)
+  * [Level 4](trang-bi/aura-charm-x/level-4.md)
 * [Implict trang bị\[x\]](trang-bi/implict-trang-bi-x.md)
 
 ## 🦁 TÍNH NĂNG RIÊNG CỦA SERVER
