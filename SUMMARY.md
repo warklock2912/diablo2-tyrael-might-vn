@@ -40,7 +40,9 @@
   * [Level 2 Primeval Wing](trang-bi/wing-charm/level-2-primeval-wing.md)
   * [Level 3 High Heaven Wing](trang-bi/wing-charm/level-3-high-heaven-wing.md)
   * [Level 4 Anu Wing](trang-bi/wing-charm/level-4-anu-wing.md)
-* [Aura Charm\[x\]](trang-bi/aura-charm-x.md)
+* [Aura Charm\[x\]](trang-bi/aura-charm-x/README.md)
+  * [Level 1](trang-bi/aura-charm-x/level-1.md)
+  * [Level 2](trang-bi/aura-charm-x/level-2.md)
 * [Implict trang bị\[x\]](trang-bi/implict-trang-bi-x.md)
 
 ## 🦁 TÍNH NĂNG RIÊNG CỦA SERVER

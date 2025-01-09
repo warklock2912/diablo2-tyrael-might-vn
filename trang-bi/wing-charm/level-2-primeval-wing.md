@@ -15,7 +15,7 @@
 
 6 x Primeval Broken (Mua trong Shop D2VN hoặc farm ở Boss [Realm of Sin](../../phu-ban-dac-biet/realm-of-sin-h.md))
 
-6 x Magic Orb (Mua trong Shop D2VN hoặc farm ở [Wrath Of The Lich King](https://d2vns-organization.gitbook.io/tm/phu-ban-dac-biet/wrath-of-the-lich-king))
+1 x Magic Orb (Mua trong Shop D2VN hoặc farm ở [Wrath Of The Lich King](https://d2vns-organization.gitbook.io/tm/phu-ban-dac-biet/wrath-of-the-lich-king))
 
 1 x Jah Rune
 {% endhint %}
@@ -34,7 +34,18 @@ Khi thất bại, cấp độ cường hoá sẽ bị giảm đi 1 cấp.
 Khi cube cùng Cropper Orb sẽ bảo toàn được cấp độ.
 {% endhint %}
 
-<table><thead><tr><th>Cấp độ</th><th>Rune</th><th>Nguyên liệu</th><th>Soul</th><th>Tỉ lệ</th><th width="100">Gold</th></tr></thead><tbody><tr><td>1</td><td>Ist</td><td>x5 Primeval Feather</td><td>Normal Soul x4</td><td>100%</td><td>100.000 Gold</td></tr><tr><td>2</td><td>Ist</td><td>x5 Primeval Feather</td><td>Normal Soul x5</td><td>95%</td><td>200.000 Gold</td></tr><tr><td>3</td><td>Gul</td><td>x10 Primeval Feather</td><td>Normal Soul x6</td><td>85%</td><td>300.000 Gold</td></tr><tr><td>4</td><td>Gul</td><td>x10 Primeval Feather</td><td>Normal Soul x7</td><td>80%</td><td>400.000 Gold</td></tr><tr><td>5</td><td>Vex</td><td>x15 Primeval Feather</td><td>Magic Soul</td><td>75%</td><td>500.000 Gold</td></tr><tr><td>6</td><td>Vex x2</td><td>x15 Primeval Feather</td><td>Magic Soul x2</td><td>70%</td><td>600.000 Gold</td></tr><tr><td>7</td><td>Ohm</td><td>x20 Primeval Feather</td><td>Magic Soul x3</td><td>65%</td><td>700.000 Gold</td></tr><tr><td>8</td><td>Ohm x2</td><td>x20 Primeval Feather</td><td>Magic Soul x4</td><td>60%</td><td>800.000 Gold</td></tr><tr><td>9</td><td>Lo</td><td>x25 Primeval Feather</td><td>Magic Soul x5</td><td>55%</td><td>900.000 Gold</td></tr><tr><td>10</td><td>Lo x2</td><td>x25 Primeval Feather</td><td>Magic Soul x6</td><td>50%</td><td>1.000.000 Gold</td></tr></tbody></table>
+| Cấp độ | Rune   | Nguyên liệu         | Soul           | Tỉ lệ |
+| ------ | ------ | ------------------- | -------------- | ----- |
+| 1      | Ist    | x5 Primeval Feather | Normal Soul    | 100%  |
+| 2      | Ist    | 5 Primeval Feather  | Normal Soul    | 95%   |
+| 3      | Gul    | 5 Primeval Feather  | Normal Soul    | 85%   |
+| 4      | Gul    | 5 Primeval Feather  | Normal Soul    | 80%   |
+| 5      | Vex    | 5 Primeval Feather  | Normal Soul    | 75%   |
+| 6      | Vex x2 | 5 Primeval Feather  | Normal Soul    | 70%   |
+| 7      | Ohm    | 5 Primeval Feather  | Normal Soul    | 65%   |
+| 8      | Ohm x2 | 5 Primeval Feather  | Normal Soul    | 60%   |
+| 9      | Lo     | 5 Primeval Feather  | Normal Soul    | 55%   |
+| 10     | Lo x2  | 5 Primeval Feather  | Normal Soul x3 | 50%   |
 
 
 

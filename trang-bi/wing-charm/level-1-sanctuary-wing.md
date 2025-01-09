@@ -28,7 +28,7 @@ Khi thất bại, cấp độ cường hoá sẽ bị giảm đi 1 cấp.
 Khi cube cùng Cropper Orb sẽ bảo toàn được cấp độ.
 {% endhint %}
 
-<table><thead><tr><th>Cấp độ</th><th width="106">Runes</th><th>Nguyên liệu</th><th width="103">Soul</th><th width="108">Tỉ lệ</th><th width="100">Gold</th></tr></thead><tbody><tr><td>1</td><td>Ist</td><td>x1 Sanctuary Feather</td><td>Normal Soul</td><td>100%</td><td>100.000 Gold</td></tr><tr><td>2</td><td>Ist</td><td>x2 Sanctuary Feather</td><td>Normal Soul</td><td>100%</td><td>100.000 Gold</td></tr><tr><td>3</td><td>Gul</td><td>x4 Sanctuary Feather</td><td>Normal Soul x2</td><td>100%</td><td>100.000 Gold</td></tr><tr><td>4</td><td>Gul</td><td>x6 Sanctuary Feather</td><td>Normal Soul x2</td><td>100%</td><td>100.000 Gold</td></tr><tr><td>5</td><td>Vex</td><td>x8 Sanctuary Feather</td><td>Normal Soul x3</td><td>95%</td><td>100.000 Gold</td></tr></tbody></table>
+<table><thead><tr><th>Cấp độ</th><th width="106">Runes</th><th>Nguyên liệu</th><th width="103">Soul</th><th width="108">Tỉ lệ</th></tr></thead><tbody><tr><td>1</td><td>Ist</td><td>x5 Sanctuary Feather</td><td></td><td>100%</td></tr><tr><td>2</td><td>Ist</td><td>x5 Sanctuary Feather</td><td></td><td>100%</td></tr><tr><td>3</td><td>Gul</td><td>x5 Sanctuary Feather</td><td></td><td>100%</td></tr><tr><td>4</td><td>Gul</td><td>x5 Sanctuary Feather</td><td></td><td>100%</td></tr><tr><td>5</td><td>Vex</td><td>x5 Sanctuary Feather</td><td>Normal Soul</td><td>95%</td></tr></tbody></table>
 
 
 
