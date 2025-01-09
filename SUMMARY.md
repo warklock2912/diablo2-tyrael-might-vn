@@ -19,9 +19,9 @@
 ## 🟥 Phụ bản đặc biệt
 
 * [Salvation Tower](phu-ban-dac-biet/salvation-tower.md)
-* [Wrath Of The Lich King](phu-ban-dac-biet/wrath-of-the-lich-king.md)
-* [Realm of Sin](phu-ban-dac-biet/realm-of-sin.md)
-* [Devil Diablo \[H\]](phu-ban-dac-biet/devil-diablo-h.md)
+* [Ice Crown - Lich King](phu-ban-dac-biet/ice-crown-lich-king.md)
+* [Realm of Sin - Azmodan](phu-ban-dac-biet/realm-of-sin-azmodan.md)
+* [Hell's Abyss - Devil Diablo](phu-ban-dac-biet/hells-abyss-devil-diablo.md)
 
 ## ⚔️ Trang bị
 

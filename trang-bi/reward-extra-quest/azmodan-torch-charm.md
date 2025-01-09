@@ -20,7 +20,7 @@ Azmodan Torch Charm có thể drop trực tiếp từ Boss Azmodan tại Map Rea
 
 Bạn có thể roll chỉ số của Azmodan Torch Charm thông qua Soul Stone(Mua tại Shop D2VN).
 
-<figure><img src="../../.gitbook/assets/2025-01-09 13-34-11.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-01-09 13-34-11.gif" alt=""><figcaption><p>Roll Item</p></figcaption></figure>
 
 ### Cường hoá
 
@@ -28,7 +28,7 @@ Bạn có thể roll chỉ số của Azmodan Torch Charm thông qua Soul Stone(
 * Mỗi cấp độ sẽ yêu cầu số lượng và loại Rune/Soul khác nhau, hãy chuẩn bị kỹ lưỡng!
 * Mỗi cấp cường hoá sẽ cộng thêm 1% All Skill Damage cùng với khả năng có thể ép Azmodan Orb.
 
-<figure><img src="../../.gitbook/assets/2025-01-09 13-44-56.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-01-09 13-44-56.gif" alt=""><figcaption><p>Nâng cấp Items</p></figcaption></figure>
 
 | Cấp độ cường hoá | Runes | Soul        | Tỉ lệ thành công |
 | ---------------- | ----- | ----------- | ---------------- |
@@ -55,12 +55,18 @@ Bạn có thể roll chỉ số của Azmodan Torch Charm thông qua Soul Stone(
 
 ### Bảo hộ chống tụt cấp
 
-<figure><img src="../../.gitbook/assets/2025-01-09 13-47-35.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-01-09 13-47-35.gif" alt=""><figcaption><p>Nâng cấp Items có bảo hộ</p></figcaption></figure>
 
 * Hãy đem **Cropper Orb** để bảo hộ không bị tụt cấp khi thất bại.
 * **Cropper Orb** được mua ở Shop D2VN.
 
 ***
+
+
+
+{% hint style="info" %}
+Lưu ý: Khi bạn sở hữu Orb của Charm khi đánh quái sẽ xuất hiện Skills Upgrade của Boss
+{% endhint %}
 
 ## Azmodan Orb Hard
 
@@ -209,9 +215,8 @@ Sử dụng Soul Stone để làm bảo hộ Item (Không bảo hộ nguyên li�
 ## Hợp nhất Azmodan Orb
 
 * Để hợp nhất cần phải đục lỗ Azmodan Torch Charm
-
-<figure><img src="../../.gitbook/assets/2025-01-09 19-45-12.gif" alt=""><figcaption></figcaption></figure>
-
 * Đục lỗ Azmodan Torch = Click chuột phải Jeweller Azmodan Torch (Được mua tại Shop Soul với giá 12.000 Soul)
 
-<figure><img src="../../.gitbook/assets/2025-01-09 19-45-25.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/2025-01-09 19-45-12.gif" alt=""><figcaption><p>Đục Lỗ Items</p></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/2025-01-09 19-45-25.gif" alt=""><figcaption><p>Gắn Orb vào Item</p></figcaption></figure>

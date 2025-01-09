@@ -9,9 +9,9 @@
 ## Công thức cube
 
 {% hint style="info" %}
-6 x Sanctuary Broken (Mua trong Shop D2VN hoặc farm ở [Wrath Of The Lich King Boss Normal](../../phu-ban-dac-biet/wrath-of-the-lich-king.md))
+6 x Sanctuary Broken (Mua trong Shop D2VN hoặc farm ở [Wrath Of The Lich King Boss Normal](../../phu-ban-dac-biet/ice-crown-lich-king.md))
 
-6 x Normal Orb (Mua trong Shop D2VN hoặc farm ở [Wrath Of The Lich King](../../phu-ban-dac-biet/wrath-of-the-lich-king.md))
+6 x Normal Orb (Mua trong Shop D2VN hoặc farm ở [Wrath Of The Lich King](../../phu-ban-dac-biet/ice-crown-lich-king.md))
 
 1 x Ber Rune
 {% endhint %}

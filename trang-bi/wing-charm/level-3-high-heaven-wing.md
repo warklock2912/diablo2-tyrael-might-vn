@@ -13,7 +13,7 @@
 {% hint style="info" %}
 1 x [Primeval Wing](level-2-primeval-wing.md) (Cường hoá +10)
 
-6 x High Heaven Broken (Mua trong Shop D2VN hoặc farm ở Boss [Realm of Sin](../../phu-ban-dac-biet/realm-of-sin.md))
+6 x High Heaven Broken (Mua trong Shop D2VN hoặc farm ở Boss [Realm of Sin](../../phu-ban-dac-biet/realm-of-sin-azmodan.md))
 
 3 x Magic Orb (Mua trong Shop D2VN hoặc farm ở [Wrath Of The Lich King](https://d2vns-organization.gitbook.io/tm/phu-ban-dac-biet/wrath-of-the-lich-king))
 
