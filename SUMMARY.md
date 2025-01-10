@@ -26,6 +26,7 @@
 
 ## ⚔️ Trang bị
 
+* [Runeword](trang-bi/runeword.md)
 * [Unique Upgrade](trang-bi/unique-upgrade/README.md)
   * [ARMOR DIABLO'S SOUL](trang-bi/unique-upgrade/armor-diablos-soul.md)
   * [BELT GHOST BELL](trang-bi/unique-upgrade/belt-ghost-bell.md)
