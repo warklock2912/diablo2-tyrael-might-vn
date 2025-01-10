@@ -77,7 +77,6 @@
 ## 📚 Game System
 
 * [👀 Magic Find là gì ? (MF)](wiki/game-features/what-is-magic-find-mf.md)
-* [Runewords (LOD)](game-system/runewords-lod.md)
 * [Nhiệm vụ gốc (LOD)](wiki/original-quests-lod/README.md)
   * [Nhiệm vụ cơ bản (LOD)](wiki/original-quests-lod/basic-quests-lod.md)
   * [Cow Level 1 (75+)](wiki/original-quests-lod/cow-level-1-75+.md)

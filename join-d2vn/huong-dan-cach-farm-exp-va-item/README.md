@@ -6,7 +6,9 @@ icon: lightbulb-exclamation
 
 ## **Hướng dẫn Quest và Act**
 
-[Chi tiết xem tại: Hướng dẫn Quest và Act](https://d2tm.com/guides/nhiem-vu/nhiem-vu-cac-act/)
+{% content-ref url="../../wiki/original-quests-lod/basic-quests-lod.md" %}
+[basic-quests-lod.md](../../wiki/original-quests-lod/basic-quests-lod.md)
+{% endcontent-ref %}
 
 ## Trainning và farm: <a href="#h-trainning-va-farm" id="h-trainning-va-farm"></a>
 
@@ -29,6 +31,24 @@ Tất nhiên là cứ làm hết Quest để biết được Quest nào quan tr�
 
 | **Secret Cow Level 1**                                             | <p>Đã được mở sẵn ngay Blood Moor (Các bạn chỉ cần mở Map lên là thấy có cổng tồn tại trong game như hình):<br>– Đây là Map mà các cao thủ vẫn hay chạy qua 1 lượt trước khi đi Extra Quest.<br>– Map vẫn được đánh giá cao khả năng rớt <strong>RUNE</strong> nên các bạn lưu ý khi tạo Room nhớ lượn 1 vòng Bò nhé<br><br></p><p><img src="https://d2tm.com/app/uploads/2024/08/image-49.png" alt="" data-size="original"></p> |
 | ------------------------------------------------------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Farm Map Level 85 để Drop Item có Mốc Items Level > 85 xịn sò:** | <p>Để thuận tiện cho việc kiếm được nhiều Item tốt hơn bạn nên lựa chọn các Map có Level của quái > 85 để có thể tìm Item Level cao tốt hơn<br><br>Các Khu Vực có Monster Level 85<br>Chi tiết xem tại:<a href="https://d2tm.com/guides/bai-farm/pits-area85-la-gi-nhung-dieu-can-biet-va-pits/"> <strong>AREA LEVEL 85</strong></a></p>                                                                                         |
+| **Farm Map Level 85 để Drop Item có Mốc Items Level > 85 xịn sò:** | Để thuận tiện cho việc kiếm được nhiều Item tốt hơn bạn nên lựa chọn các Map có Level của quái > 85 để có thể tìm Item Level cao tốt hơn                                                                                                                                                                                                                                                                                         |
 | **Extra Quest: Level 90 - xxx**                                    | Nơi đây hội tụ đủ tất cả yếu tố trên bao gồm cả Exp và Items.                                                                                                                                                                                                                                                                                                                                                                    |
 
+### Các Khu Vực có Monster Level 85
+
+{% content-ref url="../../wiki/spot-bai-farm/area85.md" %}
+[area85.md](../../wiki/spot-bai-farm/area85.md)
+{% endcontent-ref %}
+
+## Các nhiệm vụ gốc mà người chơi bắt buộc phải làm !!!
+
+* Lấy Hellfire Torch
+* Lấy Annihilus Charm
+
+{% content-ref url="../../wiki/original-quests-lod/diablo-clone-annhilus.md" %}
+[diablo-clone-annhilus.md](../../wiki/original-quests-lod/diablo-clone-annhilus.md)
+{% endcontent-ref %}
+
+{% content-ref url="../../wiki/original-quests-lod/uber-tristram-hellfire-torch.md" %}
+[uber-tristram-hellfire-torch.md](../../wiki/original-quests-lod/uber-tristram-hellfire-torch.md)
+{% endcontent-ref %}
