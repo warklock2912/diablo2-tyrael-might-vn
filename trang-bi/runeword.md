@@ -8,9 +8,11 @@ icon: book-skull
 
 * Cũng như đồ vàng, đồ xanh hay đồ trắng, Runewords là một loại đồ trong Diablo II. Tuy nhiên đồ này không thể đánh rớt ra từ quái mà phải ghép bằng cách đặt các viên rune vào trong các món đồ có lỗ.
 
-{% hint style="warning" %}
+{% hint style="info" %}
 Quy tắc về lỗ: Runeword sẽ được kích hoạt khi bạn khảm đúng lỗ theo thứ tự của Rune !!\
 Ví dụ: Ber Mal Ber Ist - Đây là điều kiện bắt buộc để kích hoạt Runeword
+
+* Lưu ý chất liệu Runeword cũng khá quan trọng - Runeword dành cho Kiếm chỉ có dùng Kiếm mới Active. Các món khác sẽ không áp dụng nhé !!!!
 {% endhint %}
 
 {% hint style="info" %}
@@ -18,6 +20,8 @@ Quy tắc về đồ: tùy từng loại Runewords mà sẽ có yêu cầu cụ 
 
 * Không áp dụng với Magic - Rare - Unique - Set (Cụ thể là màu xanh nước - Vàng - Nâu - Xanh lá)
 {% endhint %}
+
+<figure><img src="../.gitbook/assets/2025-01-10 15-01-44 (1).gif" alt=""><figcaption></figcaption></figure>
 
 ### List Runeword
 
@@ -40,6 +44,8 @@ Quy tắc về đồ: tùy từng loại Runewords mà sẽ có yêu cầu cụ 
 \- Fury: Sửa ED% 209 - 350 (có thể lắp All Weapon)
 
 \- Eternity: Sửa ED% 310 - 350 (có thể lắp All Weapon) và Thêm IAS 15 - 30
+
+* Items Throwing có thể có Socket Runeword với các Runeword All Weapons
 {% endhint %}
 
 | Tên Runeword                                                                                                                          | Chỉ số cộng thêm                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |

@@ -14,8 +14,8 @@
 * [Code cho người chơi mới](join-d2vn/code-cho-nguoi-choi-moi/README.md)
   * [Code 1: Like – Comment – Tag 3 người bạn](join-d2vn/code-cho-nguoi-choi-moi/code-1-like-comment-tag-3-nguoi-ban.md)
   * [Code 2: Streamer Code](join-d2vn/code-cho-nguoi-choi-moi/code-2-streamer-code.md)
-* [Hướng Dẫn: Cách Farm EXP và Item \[X\]](join-d2vn/huong-dan-cach-farm-exp-va-item-x/README.md)
-  * [🔯 Hướng dẫn Farm Rune dành cho Newbie](join-d2vn/huong-dan-cach-farm-exp-va-item-x/huong-dan-farm-rune-danh-cho-newbie.md)
+* [Hướng Dẫn: Cách Farm EXP và Item](join-d2vn/huong-dan-cach-farm-exp-va-item/README.md)
+  * [🔯 Hướng dẫn Farm Rune dành cho Newbie](join-d2vn/huong-dan-cach-farm-exp-va-item/huong-dan-farm-rune-danh-cho-newbie.md)
 
 ## 🟥 Phụ bản đặc biệt
 
