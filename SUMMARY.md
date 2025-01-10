@@ -26,7 +26,8 @@
 
 ## ⚔️ Trang bị
 
-* [Runeword](trang-bi/runeword.md)
+* [Runeword](trang-bi/runeword/README.md)
+  * [List Runeword (LOD)](trang-bi/runeword/list-runeword-lod.md)
 * [Unique Upgrade](trang-bi/unique-upgrade/README.md)
   * [ARMOR DIABLO'S SOUL](trang-bi/unique-upgrade/armor-diablos-soul.md)
   * [BELT GHOST BELL](trang-bi/unique-upgrade/belt-ghost-bell.md)
@@ -91,3 +92,4 @@
   * [HAMMERDIN \[SMITE\]](wiki/chuyen-sau-pvp/hammerdin-smite.md)
   * [NecroBone \[IBS Train\]](wiki/chuyen-sau-pvp/necrobone-ibs-train.md)
   * [STOMPING \[ NAMELOCK, LOCK ( STOMP ), CHAINLOCK, CHAIN \]](wiki/chuyen-sau-pvp/stomping-namelock-lock-stomp-chainlock-chain.md)
+* [Page 1](game-system/page-1.md)
